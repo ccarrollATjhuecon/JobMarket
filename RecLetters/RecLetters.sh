@@ -1,4 +1,4 @@
 #!/bin/bash
-latexmk
-touch README.md; chmod u+w README.md ; pandoc --wrap=none --standalone RecLetters.tex --to gfm | fgrep -v .title > README.md ; chmod u-w README.md
-latexmk -c
+source ~/.bash_profile ; make4ht --loglevel debug --utf8 --config RecLetters.cfg --format html5 RecLetters "svg" "-cunihtf -utf8"
+cat page-style.css | cat - RecLetters-generated-by-make4ht.css > RecLetters-page-style.css && mv RecLetters-page-style.css RecLetters.css
+cp RecLetters.html index.html
