@@ -72,39 +72,8 @@
   *{package}{./texmf-local/tex/latex/pdfsuppressruntime}{0000/00/00 v0.0}
   *{package}{xcolor}      {2016/05/11 v2.12}
   *{file}   {color.cfg}   {2016/01/02 v1.6}
-  *{package}{hyperref}    {2021-02-27 v7.00k}
-  *{package}{ltxcmds}     {2020-05-10 v1.25}
-  *{package}{iftex}       {2020/03/06 v1.0d}
-  *{package}{pdftexcmds}  {2020-06-27 v0.33}
-  *{package}{infwarerr}   {2019/12/03 v1.5}
-  *{package}{kvsetkeys}   {2019/12/15 v1.18}
-  *{package}{kvdefinekeys}{2019-12-19 v1.6}
-  *{package}{pdfescape}   {2019/12/09 v1.15}
-  *{package}{hycolor}     {2020-01-27 v1.10}
-  *{package}{letltxmacro} {2019/12/03 v1.6}
-  *{package}{auxhook}     {2019-12-17 v1.6}
-  *{package}{kvoptions}   {2020-10-07 v3.14}
-  *{file}   {pd1enc.def}  {2021-02-27 v7.00k}
-  *{file}   {hyperref-langpatches.def}{2021-02-27 v7.00k}
-  *{package}{intcalc}     {2019/12/15 v1.3}
-  *{package}{etexcmds}    {2019/12/15 v1.7}
-  *{file}   {puenc.def}   {2021-02-27 v7.00k}
-  *{package}{bitset}      {2019/12/09 v1.3}
-  *{package}{bigintcalc}  {2019/12/15 v1.5}
-  *{package}{atbegshi-ltx}{2020/08/17 v1.0a}
-  *{file}   {hpdftex.def} {2021-02-27 v7.00k}
-  *{package}{atveryend-ltx}{2020/08/19 v1.0a}
-  *{package}{rerunfilecheck}{2019/12/05 v1.9}
-  *{package}{uniquecounter}{2019/12/15 v1.4}
   *{file}   {t3cmr.fd}    {2001/12/31 v0.0}
   *{file}   {supp-pdf.mkii}{0000/00/00 v0.0}
-  *{package}{nameref}     {2021-04-02 v2.47}
-  *{package}{refcount}    {2019/12/15 v3.6}
-  *{package}{gettitlestring}{2019/12/15 v1.6}
-  *{file}   {Overview.out}{0000/00/00 v0.0}
-  *{file}   {Overview.out}{0000/00/00 v0.0}
-  *{package}{bookmark}    {2020-11-06 v1.29}
-  *{file}   {bkm-pdftex.def}{2020-11-06 v1.29}
   *{file}   {umsa.fd}     {2013/01/14 v3.01}
   *{file}   {umsb.fd}     {2013/01/14 v3.01}
   *{file}   {ulasy.fd}    {1998/08/17 v2.2e}
