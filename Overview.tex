@@ -1,7 +1,7 @@
-\newcommand{\econtexRoot}{.}\input{\econtexRoot/.econtexPaths.tex}
-\documentclass{scrartcl}
-\usepackage{\packages/local}
-\usepackage{\packages/econtexSetup}
+\input{.econtexRoot}\input{\econtexRoot/.econtexPaths}
+\documentclass{\econtex}
+\usepackage{\LaTeXInputs/local}
+\usepackage{hyperref}
 \begin{document}
 
 \medskip
@@ -12,6 +12,7 @@
 
 \begin{tabular}{ll}
   TimeTable: & \href{\pageurl/TimeTable}{Main events in job market season} \\
+  JHU Dept Events: & \href{\pageurl/Jamborees}{Spring mini-Jamboree and Fall Jamboree} \\
   Notation: & \href{\pageurl/Notation}{Definitions of terms and shortcuts used in docs provided here} \\
   Steps: & \href{\pageurl/Steps}{Detailed instructions for each step in the process} \\
   Templates: & \href{\bloburl/Templates}{Templates for various documents you will want to create} \\

@@ -307,6 +307,7 @@ Temporary Items
 economics.bib
 *.tmp
 # Custom for ShareLaTeX; allows configuration of ShareLaTeX without configuring other installations
+latexmkrc
 
 #
 _region_.*
@@ -318,7 +319,7 @@ _region_.*
 #*.pdf
 # *.html
 # *.css
-*.dep
+# *.dep
 # index.html
 
 
@@ -457,20 +458,6 @@ ipython_config.py
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
-
-### LaTeX ###
-## Core latex/pdflatex auxiliary files:
-*.aux
-*.lof
-*.log
-*.lot
-*.fls
-*.toc
-*.fmt
-*.fot
-*.cb
-*.cb2
-.*.lb
 
 ## Intermediate documents:
 *.dvi

@@ -1,0 +1,128 @@
+\usepackage{footmisc,datetime2,refcount,xr-hyper,hhline,rotating,makecell,subfiles}
+\usepackage{\econark}
+%\usepackage{\packages/subfiles}
+
+\endinput
+\provideboolean{showPageHead}
+\setboolean{showPageHead}{false}
+% \usepackage{econtexSetup} sets boolean Web=true if compilation type is dvi
+\ifthenelse{\boolean{Web}}{}{   % 
+  \setboolean{showPageHead}{true}
+  \usepackage{scrlayer-scrpage} % Package for page headers if PDF
+  \usepackage{caption} % allow suppression of appendix figures in NoAppendix PDF
+}
+
+% Allow different actions depending on whether document is being processed as
+% subfile or being process as standalone
+\providecommand{\onlyinsubfile}{}\renewcommand{\onlyinsubfile}[1]{#1}
+\providecommand{\notinsubfile}{}\renewcommand{\notinsubfile}[1]{}
+
+%% added packages
+\usepackage[utf8]{inputenc} 
+\usepackage[T1]{fontenc}
+\usepackage{sectsty}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{booktabs}
+\usepackage{placeins}
+\usepackage[font=small,format=plain,labelfont=bf,textfont=normal,justification=justified,singlelinecheck=false]{caption}
+%\usepackage[round, authoryear]{natbib}
+\usepackage[super]{nth}
+\usepackage{dcolumn}
+\usepackage{subcaption}
+\usepackage{color} 
+\usepackage{afterpage}
+\usepackage{\LaTeXInputs/pdfsuppressruntime}
+\usepackage{pdflscape}
+
+%% added commands
+\newcommand{\myred}[1]{\textcolor{red}{#1}}
+\newcommand{\myblue}[1]{\textcolor{blue}{#1}}
+\newcolumntype{d}[1]{D{.}{.}{#1}}
+
+% General math notation
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\der}[2]{\frac{\text{d}#1}{\text{d}#2}}
+\newcommand{\pd}[2]{\frac{\partial#1}{\partial#2}}
+\newcommand{\Ind}{\textbf{1}}
+
+
+% Terms unique to paper
+\newcommand{\Debt}{D}
+\newcommand{\DefInt}{Z}
+\newcommand{\PrefRate}{r}
+\newcommand{\rDI}{r_\DefInt}
+\newcommand{\Pay}{P}
+\newcommand{\MinPay}{\underline{\Pay}}
+\newcommand{\MissFee}{M}
+\newcommand{\Plan}{n}
+\newcommand{\PlanMenu}{N}
+\newcommand{\PlanPay}{\widetilde{\Pay}}
+\newcommand{\PrefShk}{\eta}
+
+\newcommand{\Character}{x}
+\newcommand{\Age}{j}
+\newcommand{\Score}{s}
+\newcommand{\LogInc}{y}
+\newcommand{\Usage}{c}
+
+\newcommand{\MissProbReal}{\varsigma}
+\newcommand{\MissCoeffReal}{\alpha}
+\newcommand{\MissBaseReal}{\MissCoeffReal_0}
+\newcommand{\MissAgeReal}{\MissCoeffReal_\Age}
+\newcommand{\MissScoreReal}{\MissCoeffReal_\Score}
+\newcommand{\MissIncomeReal}{\MissCoeffReal_\LogInc}
+\newcommand{\MissUsageReal}{\MissCoeffReal_\Usage}
+\newcommand{\MissStdReal}{\sigma_\MissCoeffReal}
+\newcommand{\MissErrReal}{\epsilon^s}
+
+\newcommand{\MissProbPcvd}{\widetilde{\MissProbReal}}
+\newcommand{\MissCoeffPcvd}{\beta}
+\newcommand{\MissBasePcvd}{\MissCoeffPcvd_0}
+\newcommand{\MissAgePcvd}{\MissCoeffPcvd_\Age}
+\newcommand{\MissScorePcvd}{\MissCoeffPcvd_\Score}
+\newcommand{\MissIncomePcvd}{\MissCoeffPcvd_\LogInc}
+\newcommand{\MissUsagePcvd}{\MissCoeffPcvd_\Usage}
+\newcommand{\MissStdPcvd}{\sigma_\MissCoeffPcvd}
+\newcommand{\MissErrPcvd}{\xi^s}
+
+\newcommand{\FailProbReal}{\varphi}
+\newcommand{\FailCoeffReal}{\mu}
+\newcommand{\FailBaseReal}{\FailCoeffReal_0}
+\newcommand{\FailAgeReal}{\FailCoeffReal_\Age}
+\newcommand{\FailScoreReal}{\FailCoeffReal_\Score}
+\newcommand{\FailIncomeReal}{\FailCoeffReal_\LogInc}
+\newcommand{\FailUsageReal}{\FailCoeffReal_\Usage}
+\newcommand{\FailErrReal}{\epsilon^f}
+
+\newcommand{\FailProbPcvd}{\widetilde{\FailProbReal}}
+\newcommand{\FailCoeffPcvd}{\nu}
+\newcommand{\FailBasePcvd}{\FailCoeffPcvd_0}
+\newcommand{\FailAgePcvd}{\FailCoeffPcvd_\Age}
+\newcommand{\FailScorePcvd}{\FailCoeffPcvd_\Score}
+\newcommand{\FailIncomePcvd}{\FailCoeffPcvd_\LogInc}
+\newcommand{\FailUsagePcvd}{\FailCoeffPcvd_\Usage}
+\newcommand{\FailErrPcvd}{\xi^f}
+
+\newcommand{\DriftRate}{\delta}
+\newcommand{\DriftBase}{\DriftRate_0}
+\newcommand{\DriftAge}{\DriftRate_\Age}
+\newcommand{\DriftScore}{\DriftRate_\Score}
+\newcommand{\DriftIncome}{\DriftRate_\LogInc}
+\newcommand{\DriftUsage}{\DriftRate_\Usage}
+
+\newcommand{\CorrReal}{\rho_A}
+\newcommand{\CorrPcvd}{\rho_B}
+\newcommand{\ReoptProb}{\pi}
+\newcommand{\PrefShkStd}{\sigma_\PrefShk}
+
+\newcommand{\OvertimePenalty}{\omega}
+\newcommand{\RoundPref}{\kappa}
+\newcommand{\FiftyPref}{\RoundPref_{50}}
+\newcommand{\HundoPref}{\RoundPref_{100}}
+\newcommand{\TimingPref}{\tau}
+\newcommand{\PayAllPref}{\TimingPref_1}
+

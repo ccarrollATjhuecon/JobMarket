@@ -1,4 +1,4 @@
 #!/bin/bash
-latexmk
-touch README.md; chmod u+w README.md ; pandoc --wrap=none --standalone Steps.tex --to gfm | fgrep -v .title > README.md ; chmod u-w README.md
-latexmk -c
+source ~/.bash_profile ; make4ht --loglevel debug --utf8 --config Steps.cfg --format html5 Steps "svg" "-cunihtf -utf8"
+cat page-style.css | cat - Steps-generated-by-make4ht.css > Steps-page-style.css && mv Steps-page-style.css Steps.css
+cp Steps.html index.html

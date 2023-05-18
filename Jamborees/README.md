@@ -4,7 +4,7 @@
 
 # Spring Mini-Jamboree
 
-Date: Right after exams \[see JobMarket-KeyDates calendar\]
+Date: Right after exams (see [JobMarket-KeyDates](https://calendar.google.com/calendar/u/0?cid=amh1ZWNvbi5vcmdfYnUyM2xoNXA2a2IwbjMzYmprdWI0am5pa3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) calendar)
 
 Right after exams, all day session for students and JMPO
 
