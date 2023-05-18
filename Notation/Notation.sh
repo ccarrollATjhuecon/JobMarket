@@ -1,4 +1,4 @@
 #!/bin/bash
-source ~/.bash_profile ; make4ht --loglevel debug --utf8 --config Notation.cfg --format html5 Notation "svg" "-cunihtf -utf8"
-cat page-style.css | cat - Notation-generated-by-make4ht.css > Notation-page-style.css && mv Notation-page-style.css Notation.css
-cp Notation.html index.html
+latexmk
+touch README.md; chmod u+w README.md ; pandoc --wrap=none --standalone Notation.tex --to gfm | fgrep -v .title > README.md ; chmod u-w README.md
+latexmk -c
