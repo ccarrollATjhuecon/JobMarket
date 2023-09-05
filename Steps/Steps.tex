@@ -1,9 +1,22 @@
 % -*- mode: LaTeX; TeX-PDF-mode: t; -*- # Tell emacs the file type (for syntax coloring)
 %\newcommand{\econtexRoot}{..}\input{\econtexRoot/.econtexPaths.tex}\documentclass{\classes/econtex}
-\input{.econtexRoot}\input{\econtexRoot/.econtexPaths}
-\documentclass{\classes/econtex}
+% \input{./.econtexRoot}
 
+% \documentclass{scrartcl}
+% \usepackage{\LaTeXInputs/local}
+% \usepackage{hyperref}
+% \usepackage{moreverb}
+% \input{.econtexRoot}\input{\econtexRoot/.econtexPaths}
+% \documentclass{\classes/econtex}
+
+\input{./.econtexRoot}
+\documentclass{scrartcl}
 \usepackage{\LaTeXInputs/local}
+\usepackage{hyperref}
+\usepackage{moreverb}
+%\usepackage{\packages/econtexSetup}
+
+% \usepackage{\LaTeXInputs/local}
 \usepackage{\packages/econtexSetup}
 
 \provideboolean{MyNotes}\setboolean{MyNotes}{false}

@@ -49,6 +49,8 @@
   *{package}{atveryend-ltx}{2020/08/19 v1.0a}
   *{package}{rerunfilecheck}{2019/12/05 v1.9}
   *{package}{uniquecounter}{2019/12/15 v1.4}
+  *{package}{moreverb}    {2008/06/03 v2.3a}
+  *{package}{verbatim}    {2020-07-07 v1.5u}
   *{file}   {l3backend-pdftex.def}{2021-03-18 v3}
   *{file}   {supp-pdf.mkii}{0000/00/00 v0.0}
   *{package}{nameref}     {2021-04-02 v2.47}
