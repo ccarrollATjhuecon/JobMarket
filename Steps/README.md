@@ -5,21 +5,21 @@
 
 # Steps in the Job Market Process
 
-1.  Familiarize yourself with this document, , and ; in all communications I will expect you to have thoroughly digested the information contained in all of the resources I have provided.
+1.  Familiarize yourself with this document, [`TimeTable`](https://github.com/llorracc/JobMarket/tree/main/TimeTable), and [`FAQ`](https://github.com/llorracc/JobMarket/blob/main/FAQ); in all communications I will expect you to have thoroughly digested the information contained in all of the resources I have provided.
 
-2.  In your initial email to the JMPO and JMCC (see  for timing; see  for definitions of who the JMPO and JMCC are), indicate what your  is (don’t forget the middle initial! see ), your main advisor, second advisor, job paper title, year in the JHU program, and assessment of likelihood you will actually be on the market (for students before 6th year).
+2.  In your initial email to the JMPO and JMCC (see [`TimeTable`](https://github.com/llorracc/JobMarket/tree/main/TimeTable) for timing; see [`Notation`](https://github.com/llorracc/JobMarket/blob/main/Notation) for definitions of who the JMPO and JMCC are), indicate what your `Moniker` is (don’t forget the middle initial! see [`Notation`](https://github.com/llorracc/JobMarket/blob/main/Notation)), your main advisor, second advisor, job paper title, year in the JHU program, and assessment of likelihood you will actually be on the market (for students before 6th year).
 
     <div id="jhueconpeople-data">
 
     </div>
 
-3.  In early September, a login entry will be created for you using your  in the database that I have set up to keep track of job market candiates,   (its full url is at the end of this document). Don’t be worried about the information you put in this database; it is mainly for internal purposes and we will not (for example) put your phone number on the internet. But we do *need* your phone number so that you can be contacted quickly if necessary (in response to an inquiry from an employer, e.g.).
+3.  In early September, a login entry will be created for you using your `Moniker` in the database that I have set up to keep track of job market candiates, [`jhuEconPeople`](https://jhueconpeople.dynalias.org)  (its full url is at the end of this document). Don’t be worried about the information you put in this database; it is mainly for internal purposes and we will not (for example) put your phone number on the internet. But we do *need* your phone number so that you can be contacted quickly if necessary (in response to an inquiry from an employer, e.g.).
 
     <div id="write-and-post-memo">
 
     </div>
 
-4.  In mid-September, you need to write a short memo about yourself for me and your advisor(s) that includes most of the facts you have entered into the database, as well as crucial extra content. In this memo, *briefly* describe your job market paper topic, sketch the rest of your dissertation, mention any other research, and say something about teaching interests. Give a tentative title for your job market paper and dissertation (this can change later, in the database). Say what kinds of jobs you are most interested in (e.g. university vs. teaching college vs. non-academic, large vs. small school) and any geographic preferences or restrictions. Note any special selling points (e.g. good TA ratings), or special connections that could result in a job offer outside the usual channels. Include both primary and ‘backup’ contact information so we can always find you quickly. Also include visa status information. *This document must not be more than 2 pages.* Call this document, e.g., `MemoCarrollCD.pdf`, post it at the root of your `job market directory` (which should correspond to your moniker; see ), email it to the JMPO and your dissertation advisers, and you’re done.
+4.  In mid-September, you need to write a short memo about yourself for me and your advisor(s) that includes most of the facts you have entered into the database, as well as crucial extra content. In this memo, *briefly* describe your job market paper topic, sketch the rest of your dissertation, mention any other research, and say something about teaching interests. Give a tentative title for your job market paper and dissertation (this can change later, in the database). Say what kinds of jobs you are most interested in (e.g. university vs. teaching college vs. non-academic, large vs. small school) and any geographic preferences or restrictions. Note any special selling points (e.g. good TA ratings), or special connections that could result in a job offer outside the usual channels. Include both primary and ‘backup’ contact information so we can always find you quickly. Also include visa status information. *This document must not be more than 2 pages.* Call this document, e.g., `MemoCarrollCD.pdf`, post it at the root of your `job market directory` (which should correspond to your moniker; see [`Notation`](https://github.com/llorracc/JobMarket/blob/main/Notation)), email it to the JMPO and your dissertation advisers, and you’re done.
 
 5.  Note that you do not want to make an unfavorable impression on the job market coordinator by being someone I have to hassle to get you to do things like this job market memo. Please do these things on time without my having to pester you.
 
@@ -57,7 +57,7 @@
 
     </div>
 
-11. Once your CV, abstract, and job market paper are ready, it will be *your* responsibility to post them into the folder that the department will create under your . Instructions can be found at the `JMCC Help` web page listed below, under the header `JobMarketComputerHelp`. To see what the final page will look like, go to <http://www.econ2.jhu.edu/jobmarket/2016/>. (The page <http://www.econ2.jhu.edu/computing-resources/> may also contain answers to technical questions.)
+11. Once your CV, abstract, and job market paper are ready, it will be *your* responsibility to post them into the folder that the department will create under your `Moniker`. Instructions can be found at the `JMCC Help` web page listed below, under the header `JobMarketComputerHelp`. To see what the final page will look like, go to <http://www.econ2.jhu.edu/jobmarket/2016/>. (The page <http://www.econ2.jhu.edu/computing-resources/> may also contain answers to technical questions.)
 
     <div id="Template">
 
@@ -72,18 +72,18 @@
 
 13. Produce a finished job market paper by October 1, and send a copy to your advisor and anyone who you will be asking to write letters for you, and post it in your folder on the server. It should be complete, polished, well-written, and nicely formatted. It should look like something ready to send to a journal, not a work in progress. It must be written using LaTeX – NOT Word, NOT Scientific Word – LaTeX. (It’s fine to have an additional paper or two ready, but quality is *much* more important than quantity; if you have to make a choice between completing a second or third paper, and polishing the job market paper, polish.)
 
-    <div id="\EM">
+    <div id="EmployersMoniker">
 
     </div>
 
-14. Confer with your principal advisor to construct your  lists (see [below](#below))
+14. Confer with your principal advisor to construct your `Employers[Moniker]` lists (see [below](#below))
 
     <div id="Rec-Letters">
 
     </div>
 
 15. After you have obtained your advisors’ approval for your list of places you plan to apply to (and for your job market paper), you will follow the procedures in the  
-          [RecLetters](\bloburl/RecLetters)  
+          [RecLetters](https://github.com/llorracc/JobMarket/blob/main/RecLetters)  
     directory to get recommendation letters sent on your behalf.
 
 16. <span id="Signal">**Signal** </span>In the latter half of November, the AEA job registration process allows you to designate no more than two employers to whom you want to “signal” special interest. (See the url at the end of this document). These signals, in some cases, actually have value because each person has only two of them. Though you should not obsess about where to send your “signals” you should give it some thought – if you are a plausible candidate for a job at the institution in question, they will definitely pay more attention to your application if they receive your “signal.” It will single out your application from the 400 others they will have received. They might receive only 10 “signals” so they can afford to pay close attention to those applications.
@@ -96,7 +96,7 @@
 
 17. In early December, we will schedule mock interviews in which Hopkins faculty pretend to be interviewers at the AEA meetings and grill you as you will be grilled there.
 
-    > [`Prep-For-Interviews`](\pageurl/Steps#Prep-For-Interviews)
+    > [`Prep-For-Interviews`](https://llorracc.github.io/JobMarket/Steps#Prep-For-Interviews)
 
     <div id="Be-Reachable">
 
@@ -108,7 +108,7 @@
 
     </div>
 
-19. Prepare for the interviews; several students have provided detailed advice, which I have posted in [`Resources`](\treeurl/Resources). In particular, the document `Practice.Interviews.Student.Preparation.doc` provides an excellent overview and wise guidance. One further requirement is to be able to articulate an explicit plan for when your dissertation will be completed and what it will consist of; many employers, in interviews, will ask this question, and you need to have an answer (approved by your advisor) ready at hand.
+19. Prepare for the interviews; several students have provided detailed advice, which I have posted in [`Resources`](https://github.com/llorracc/JobMarket/tree/main/Resources). In particular, the document `Practice.Interviews.Student.Preparation.doc` provides an excellent overview and wise guidance. One further requirement is to be able to articulate an explicit plan for when your dissertation will be completed and what it will consist of; many employers, in interviews, will ask this question, and you need to have an answer (approved by your advisor) ready at hand.
 
     Below is a reminder of what is expected in your ASSA interviews (and which therefore you should prepare for in your mock interviews)
 
@@ -154,13 +154,13 @@
 
 One activity that does not fit neatly into the chronological order of steps above above is the process of developing the list of places you want to apply to.
 
-You need to keep track of these using a copy of the spreadsheet that you will rename to incorporate your .
+You need to keep track of these using a copy of the `EmployersMoniker.xlsm`spreadsheet that you will rename to incorporate your `Moniker`.
 
-You should start this process even before your advisor gives you preliminary approval to be on the market. Periodically check Job Openings for Economists () (available from the AEA) for job listings; many jobs are already posted as of September 1, and most of the jobs that will be available on JOE will be posted by October 1. You might also check listings from the National Association of Business Economists. If you are interested in overseas jobs, look at the European JOE and the ads in the *Economist*. (If you discover job listings that may be of interest to your classmates, please let them know).
+You should start this process even before your advisor gives you preliminary approval to be on the market. Periodically check Job Openings for Economists ([`JOE`](https://www.aeaweb.org/joe)) (available from the AEA) for job listings; many jobs are already posted as of September 1, and most of the jobs that will be available on JOE will be posted by October 1. You might also check listings from the National Association of Business Economists. If you are interested in overseas jobs, look at the European JOE and the ads in the *Economist*. (If you discover job listings that may be of interest to your classmates, please let them know).
 
-You will ultimately need to generate form-letters to the employers you plan to apply to, and will need various kinds of information about them (like email addresses and phone numbers) as you work your way through the process. Over the years, we have developed a standardized Excel spreadsheet template that contains slots for all the information you will need to collect, available in the  folder as `EmployersMoniker.xlsx`. You *MUST* use (a renamed version of) this Excel spreadsheet template when you send out your applications (because you want to use the linked form-letter-generating software); therefore, to avoid confusing yourself by having multiple lists, you should start your process by downloading the spreadsheet from the  directory. Rename it to, e.g., `EmployersCarrollCD.xlsm`, erase the information that is in it (unless you want to apply to some of the example employers included in the template file – in which case, you still need to verify that they are hiring this year and the contact information has remained the same). *DO NOT* rearrange or rename the columns in this template – in the end, the JMPO will need to merge all of the students’ templates in order to have a manageable idea of who has applied where, and you do not want to annoy the JMPO at this crucial time by making extra work in the form of figuring out what you have renamed columns to and where you have moved them to. (You are welcome to add extra columns beyond those in the template, and hide those that you don’t need to use; but do NOT rename or reorder them!).
+You will ultimately need to generate form-letters to the employers you plan to apply to, and will need various kinds of information about them (like email addresses and phone numbers) as you work your way through the process. Over the years, we have developed a standardized Excel spreadsheet template that contains slots for all the information you will need to collect, available in the [`Templates`](https://github.com/llorracc/JobMarket/blob/main/Templates) folder as `EmployersMoniker.xlsx`. You *MUST* use (a renamed version of) this Excel spreadsheet template when you send out your applications (because you want to use the linked form-letter-generating software); therefore, to avoid confusing yourself by having multiple lists, you should start your process by downloading the spreadsheet `EmployersMoniker.xlsm`from the [`Templates`](https://github.com/llorracc/JobMarket/blob/main/Templates) directory. Rename it to, e.g., `EmployersCarrollCD.xlsm`, erase the information that is in it (unless you want to apply to some of the example employers included in the template file – in which case, you still need to verify that they are hiring this year and the contact information has remained the same). *DO NOT* rearrange or rename the columns in this template – in the end, the JMPO will need to merge all of the students’ templates in order to have a manageable idea of who has applied where, and you do not want to annoy the JMPO at this crucial time by making extra work in the form of figuring out what you have renamed columns to and where you have moved them to. (You are welcome to add extra columns beyond those in the template, and hide those that you don’t need to use; but do NOT rename or reorder them!).
 
-By early October you should have developed a list of most of the places to which you wish to apply. At that point, make an appointment with your advisor(s) to discuss the list. When you and your advisor(s) have agreed on the list, you will need to give copies of the list to the people who are writing reference letters. See  for procedures. For academic employers, some will ask for evidence of teaching skills; here, there is no clear-cut standard for what they expect to receive, but student evaluations of your performance (including a few choice quotes from the student evaluation forms) are a good idea. Do NOT send more than a page or two of info on this subject - nobody will read more than this, so distill everything down to the essence.
+By early October you should have developed a list of most of the places to which you wish to apply. At that point, make an appointment with your advisor(s) to discuss the list. When you and your advisor(s) have agreed on the list, you will need to give copies of the list to the people who are writing reference letters. See [`RecLetters`](https://github.com/llorracc/JobMarket/blob/main/RecLetters) for procedures. For academic employers, some will ask for evidence of teaching skills; here, there is no clear-cut standard for what they expect to receive, but student evaluations of your performance (including a few choice quotes from the student evaluation forms) are a good idea. Do NOT send more than a page or two of info on this subject - nobody will read more than this, so distill everything down to the essence.
 
 Err on the side of too many applications rather than too few. But don’t waste everyone’s time by applying to places that you would turn down under all possible circumstances.
 
