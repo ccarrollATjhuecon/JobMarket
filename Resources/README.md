@@ -4,7 +4,7 @@ This contains advice from JHU students and faculty over the years about various 
 
 It is accessible only from within a browser that has been authenticated to the JHU VPN.
 
-A private GitHub repo is also available to collaborators:
+A private GitHub repo is also available to collaborators (JMCC, not other candidates):
 
 https://github.com/ccarrollATjhuecon/jobmarket-resources
 
