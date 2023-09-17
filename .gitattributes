@@ -1,0 +1,7 @@
+# .gitignore ignores untracked files; .gitattributes are for tracked files
+# Quality of answers in decending order:
+# GPT-4
+# Claude2
+# Bard
+
+.latexmkrc merge=ours

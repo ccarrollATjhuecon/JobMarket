@@ -3,8 +3,9 @@
 \input{.econtexRoot}\input{\econtexRoot/Resources/.econtexPaths}
 \documentclass{\classes/econtex}
 
-\usepackage{\LaTeXInputs/local}
+\usepackage{\packages/local}
 \usepackage{\packages/econtexSetup}
+\usepackage{\packages/pdfsuppressruntime}
 
 \provideboolean{MyNotes}\setboolean{MyNotes}{false}
 \opt{private}{\provideboolean{MyNotes}\setboolean{MyNotes}{true}} % Whether to show marginalia; useful for initial meeting with students
@@ -28,11 +29,10 @@
   year in the JHU program, and assessment of likelihood you will
   actually be on the market (for students before 6th year).
 
-  \hypertarget{jhueconpeople-data}{}
-\item \ifthenelse{\boolean{MyNotes}}{\marginpar{\tiny Ask computer coordinator to help a student set up a listproc for discussions; secret from JMPO.}}{} In early September, a login entry will be created for you using your \Moniker~in the database that I have set up to keep track of job market candiates, \db~ (its full url is at the end of this document).  Don't be worried about the information you put in this database; it is mainly for internal purposes and we will not (for example) put your phone number on the internet.  But we do \textit{need} your phone number so that you can be contacted quickly if necessary (in response to an inquiry from an employer, e.g.).
+\item Your JHU email gives you access to a OneDrive account. You will use this account to share various files with JMStaff and JMPO. If you log-in to my.jh.edu and look for ``OneDrive'' you will find information on how to access your account. The JMPO and JMCC will create a folder for you named with your moniker and send you an invitation to it. This will be the place for private files like your employers lists and memo. Only you, the JMPO, and JMStaff will have access to this folder.
 
   \hypertarget{write-and-post-memo}{}
-\item \ifthenelse{\boolean{MyNotes}}{\marginpar{\tiny Ask computer coordinator to help a student set up a listproc for discussions; secret from JMPO.}}{} In mid-September, you need to write a short memo about yourself for me and your advisor(s) that includes most of the facts you have entered into the database, as well as crucial extra content.  In this memo, \textit{briefly} describe your job market paper topic, sketch the rest of your dissertation, mention any other research, and say something about teaching interests.  Give a tentative title for your job market paper and dissertation (this can change later, in the database).  Say what kinds of jobs you are most interested in (e.g.\ university vs.\ teaching college vs.\ non-academic, large vs.\ small school) and any geographic preferences or restrictions.  Note any special selling points (e.g.\ good TA ratings), or special connections that could result in a job offer outside the usual channels.  Include both primary and `backup' contact information so we can always find you quickly.  Also include visa status information.  \textit{This document must not be more than 2 pages.}  Call this document, e.g., \texttt{MemoCarrollCD.pdf}, post it at the root of your \texttt{job market directory} (which should correspond to your moniker; see \ntn), email it to the JMPO and your dissertation advisers, and you're done.  \ifthenelse{\boolean{MyNotes}}{\marginpar{\tiny Think about having Nina create a place where they can deposit these without my intervention.}}{}
+\item \ifthenelse{\boolean{MyNotes}}{\marginpar{\tiny Ask computer coordinator to help a student set up a listproc for discussions; secret from JMPO.}}{} In mid-September, you need to write a short memo about yourself for me and your advisor(s).  In this memo, \textit{briefly} describe your job market paper topic, sketch the rest of your dissertation, mention any other research, and say something about teaching interests.  Give a tentative title for your job market paper and dissertation (this can change later, in the database).  Say what kinds of jobs you are most interested in (e.g.\ university vs.\ teaching college vs.\ non-academic, large vs.\ small school) and any geographic preferences or restrictions.  Note any special selling points (e.g.\ good TA ratings), or special connections that could result in a job offer outside the usual channels.  Include both primary and `backup' contact information so we can always find you quickly.  Also include visa status information.  \textit{This document must not be more than 2 pages.}  Call this document, e.g., \texttt{MemoCarrollCD.pdf}, post it at the root of your OneDrive (which should correspond to your moniker; see \ntn), share your memo with you dissertation advisers, and you're done.  \ifthenelse{\boolean{MyNotes}}{\marginpar{\tiny Think about having Nina create a place where they can deposit these without my intervention.}}{}
 
 \item Note that you do not want to make an unfavorable impression on
   the job market coordinator by being someone I have to hassle to get

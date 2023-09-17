@@ -1,8 +1,10 @@
+% -*- mode: LaTeX; TeX-PDF-mode: t; -*- # Tell emacs the file type (for syntax coloring)
 \input{.econtexRoot}
 \documentclass{\econtex}
-\usepackage{\LaTeXInputs/local}
+\usepackage{\packages/local}
 \usepackage{\packages/pdfsuppressruntime}
 \usepackage{hyperref}
+\usepackage{graphicx}
 \begin{document}
 
 \medskip
@@ -10,18 +12,27 @@
 % For timetable of own tasks, see placement.jhuecon@gmail.com's calendar
 
 \section*{JobMarket Info for JHU Econ PhDs}
+\subsection*{Reference Information}
+
+\medskip
 
 \begin{tabular}{ll}
   TimeTable: & \href{\pageurl/TimeTable}{Main events in job market season} \\
-  JHU Dept Events: & \href{\pageurl/Jamborees}{Spring mini-Jamboree and Fall Jamboree} \\
-  Notation: & \href{\pageurl/Notation}{Definitions of terms and shortcuts used in docs provided here} \\
+  Notation: & \href{\pageurl/Notation}{Definitions of terms and shortcuts used herein} \\
   Steps: & \href{\pageurl/Steps}{Detailed instructions for each step in the process} \\
-  Templates: & \href{\bloburl/Templates}{Templates for various documents you will want to create} \\
+  Templates: & \href{\bloburl/Templates}{Templates for various docs you will want to create} \\
   RecLetters: & \href{\pageurl/RecLetters}{All about your Recommendation Letters} \\
   Procedures: & \href{\bloburl/JobMarketProceduresHelp.md}{Procedures for posting and sharing your materials} \\
   Resources: & \href{\bloburl/Resources}{Resources and advice, some from JHU faculty and former students} \\
   FAQ: & \href{\pageurl/FAQ}{Frequently Asked Questions} \\
-  Events: & \href{\bloburl/Jamborees}{Presentations by job market candidates}
+\end{tabular}
+
+\medskip
+
+\subsection*{Events}
+\begin{tabular}{ll}
+  JHU Dept Events: & \href{\pageurl/Jamborees}{Spring mini-Jamboree and Fall Jamboree} \\
+  Student Events: &  \href{https://jh.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=4a25e803-cd94-4e31-b350-b00500e50267}{practice job talks}
 \end{tabular}
 
 \end{document}
