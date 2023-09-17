@@ -81,7 +81,7 @@
   *{package}{manyfoot}    {2019/08/03 v1.11}
   *{package}{nccfoots}    {2005/02/03 v1.2}
   *{package}{perpage}     {2014/10/25 v2.0}
-  *{package}{./Resources/LaTeXInputs/local}{0000/00/00 v0.0}
+  *{package}{./Resources/texmf-local/tex/latex/local}{0000/00/00 v0.0}
   *{package}{./Resources/texmf-local/tex/latex/pdfsuppressruntime}{0000/00/00 v0.0}
   *{package}{ifxetex}     {2019/10/25 v0.7}
   *{package}{hyperref}    {2021-02-27 v7.00k}
@@ -102,9 +102,15 @@
   *{package}{atveryend-ltx}{2020/08/19 v1.0a}
   *{package}{rerunfilecheck}{2019/12/05 v1.9}
   *{package}{uniquecounter}{2019/12/15 v1.4}
+  *{package}{graphicx}    {2020/09/09 v1.2b}
+  *{package}{graphics}    {2020/08/30 v1.4c}
+  *{package}{trig}        {2016/01/03 v1.10}
+  *{file}   {graphics.cfg}{2016/06/04 v1.11}
   *{file}   {t3cmr.fd}    {2001/12/31 v0.0}
   *{file}   {translations-basic-dictionary-english.trsl}{(english v0.0}
   *{file}   {supp-pdf.mkii}{0000/00/00 v0.0}
+  *{package}{epstopdf-base}{2020-01-24 v2.11}
+  *{file}   {epstopdf-sys.cfg}{2010/07/13 v1.3}
   *{package}{nameref}     {2021-04-02 v2.47}
   *{package}{refcount}    {2019/12/15 v3.6}
   *{package}{gettitlestring}{2019/12/15 v1.6}

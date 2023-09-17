@@ -1,7 +1,11 @@
-\newcommand{\econtexRoot}{..}\input{\econtexRoot/.econtexPaths.tex}
+% -*- mode: LaTeX; TeX-PDF-mode: t; -*- # Tell emacs the file type (for syntax coloring)
+\newcommand{\econtexRoot}{..}\input{\econtexRoot/Resources/.econtexPaths.tex}
 \documentclass{\classes/econtex}
+\usepackage{graphicx}
 \usepackage{\packages/local}
 \usepackage{\packages/econtexSetup}
+\usepackage{\packages/pdfsuppressruntime}
+
 % Allow links to items inside itemize environment
 % https://tex.stackexchange.com/questions/81949/can-individual-items-in-an-itemize-list-be-labelled-and-hyperref-linked/81952#81952
 % \AtBeginEnvironment{itemize}{\apptocmd{\item}{\phantomsection}{}{\errmessage{couldn't patch item}}}
@@ -352,13 +356,38 @@
 
 
   \end{quote}
+
+\hypertarget{record-and-post-your-job-talk}{}
 \item  How does the video of the seminar work?
   
   \begin{quote}
     You should have identified a classmate (your `buddy') whose
-    responsibility will be to make sure the video camera is recording
-    and the video will be accessible to you during your seminar.  (The
-    JMCC will provide info to everyone about how to do this).  
+    responsibility will be to help you during your seminar presentation.
+    
+    Before the seminar, you and your buddy should.
+    \begin{enumerate}
+    	\item (One week before) Create a zoom link and send it to the seminar organizer so that they can distribute it in the announcement for your presentation.
+    	\item Share the link with the JMCC and JMPO so that they can add it to the JobMarket-KeyDates calendar. The JMPO might want to connect to your talk remotely so it is crucial for you to send him or her the link.
+    	\item (Half an hour before) Arrive at the seminar room and set everything up. Join the zoom call. Test the cameras and microphones are transmitting to the zoom call. Verify that the clicker works. Load your presentation.
+    	\item (5 minutes before) Start recording. You will ultimately need an mp4 file of your talk. You can record "locally," and zoom will produce this mp4 file for you.
+    	\item Again, verify that everything works. Have your buddy join the zoom call and check the audio, video, and screen-sharing.
+    \end{enumerate}
+    
+    Present your paper and end the recording when you are done.
+    
+    After the seminar, you have to upload the recording to a Panopto folder that the JMCC will create and provide a link for.
+    \begin{enumerate}
+    	\item Extract the recording from the seminar room computer using a USB stick. It is important for you to bring a USB stick to your presentation.
+ 		\item Using your own computer, upload your file to the Panopto folder:
+ 		\begin{enumerate}
+ 			\item Navigate to the Panopto folder using your web browser.
+ 			\item Click on the three "Create" button on the upper-left corner.
+ 			\item Click on "Upload media"
+ 			\item Add your file and make sure to select the "Econ-JobMarket-YYYY" folder provided by the JMCC.
+ 		\end{enumerate}
+ 		\item (If you want) Edit the recording to using Panopto to, for example, remove the dead time before and after the actual presentation in the recording.
+ 		\item Name your recording ``YourMoniker\_PracticeJobTalk''
+    \end{enumerate}  
 
     Your `buddy' should also take detailed notes about the questions
     that come up during the seminar.  You should also ask all the other
@@ -607,6 +636,29 @@
     The latter option (or a modified version that redacts any ``results'' from the abstract) is much better. If you make such abstract redactions, you should see whether you can get the provider of the data to quickly review either the redacted or the full (unredacted) abstract, faster than they may be able to review the whole paper.
 
   \end{quote}
+
+\item I was a graduate Teaching Assistant. I would like to present evidence of my teaching effectiveness as a graduate TA but the Department has not been able to provide me with any type of teaching evaluation for this period. What should I do?
+
+\begin{quote}
+	You could think of running your own anonymous survey emailing it to the cohorts you TA'd for. \href{https://docs.google.com/forms/}{Google Forms} and the Deparment's mailing lists (i.e., \texttt{econ-Xthyear@jhu.edu}) are your friends. Be sure to make the survey ``fair:''
+	\begin{enumerate}
+		\item Obtain pre-approval from the course instructor.
+		\item Make sure the survey is anonymous.
+		\item Email the whole cohort, not subsets of particular students.
+		\item When presenting aggregate statistics, report the response rate you obtained.
+	\end{enumerate}
+\end{quote}
+
+\item After the pandemic (up to at least 2023-24) interviews have mostly shifted online. Is it still worth it to go to the ASSA meetings in January?
+
+\begin{quote}
+	The JMPO had this advice for 2023-24, which might change in the future.
+	
+	``
+	Your time is at a premium in this period, revising your job market paper and making enough progress on your other papers so that if/when you do flyouts you will have accomplished as much as possible.  So, unless you have either already secured a job, or are on the meeting program, it is probably best to skip the ASSA meetings.
+	''
+\end{quote}
+
 \end{enumerate}
 
 \end{document}
