@@ -1,2 +1,3 @@
 Make:image("svg$",
 "dvisvgm -n -p ${page} --exact -c 1.0,1.0 -s ${source} > ${output}")
+
