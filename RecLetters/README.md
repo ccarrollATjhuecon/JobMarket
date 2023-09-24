@@ -1,1 +1,1 @@
-[RecLetters](https://ccarrollATjhuecon.github.io/JobMarket-Latest/RecLetters/RecLetters.html)
+[RecLetters](https://ccarrollATjhuecon.github.io/JobMarket-Public/RecLetters/RecLetters.html)

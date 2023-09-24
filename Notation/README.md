@@ -1,1 +1,1 @@
-[Notation](https://ccarrollATjhuecon.github.io/JobMarket-Latest/Notation/Notation.html)
+[Notation](https://ccarrollATjhuecon.github.io/JobMarket-Public/Notation/Notation.html)
