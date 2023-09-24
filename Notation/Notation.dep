@@ -84,7 +84,7 @@
   *{package}{graphics}    {2020/08/30 v1.4c}
   *{package}{trig}        {2016/01/03 v1.10}
   *{file}   {graphics.cfg}{2016/06/04 v1.11}
-  *{package}{../Resources/texmf-local/tex/latex/local}{0000/00/00 v0.0}
+  *{package}{../Resources/LaTeX/local}{0000/00/00 v0.0}
   *{package}{../Resources/texmf-local/tex/latex/pdfsuppressruntime}{0000/00/00 v0.0}
   *{package}{ifxetex}     {2019/10/25 v0.7}
   *{package}{../Resources/texmf-local/tex/latex/econtexSetup}{0000/00/00 v0.0}
@@ -120,6 +120,8 @@
   *{package}{nameref}     {2021-04-02 v2.47}
   *{package}{refcount}    {2019/12/15 v3.6}
   *{package}{gettitlestring}{2019/12/15 v1.6}
+  *{file}   {Notation.out}{0000/00/00 v0.0}
+  *{file}   {Notation.out}{0000/00/00 v0.0}
   *{package}{bookmark}    {2020-11-06 v1.29}
   *{file}   {bkm-pdftex.def}{2020-11-06 v1.29}
   *{file}   {umsa.fd}     {2013/01/14 v3.01}
