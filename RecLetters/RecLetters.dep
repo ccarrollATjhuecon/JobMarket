@@ -81,7 +81,11 @@
   *{package}{manyfoot}    {2019/08/03 v1.11}
   *{package}{nccfoots}    {2005/02/03 v1.2}
   *{package}{perpage}     {2014/10/25 v2.0}
-  *{package}{../Resources/LaTeXInputs/local}{0000/00/00 v0.0}
+  *{package}{graphicx}    {2020/09/09 v1.2b}
+  *{package}{graphics}    {2020/08/30 v1.4c}
+  *{package}{trig}        {2016/01/03 v1.10}
+  *{file}   {graphics.cfg}{2016/06/04 v1.11}
+  *{package}{../Resources/LaTeX/local}{0000/00/00 v0.0}
   *{package}{../Resources/texmf-local/tex/latex/pdfsuppressruntime}{0000/00/00 v0.0}
   *{package}{ifxetex}     {2019/10/25 v0.7}
   *{package}{../Resources/texmf-local/tex/latex/econtexSetup}{0000/00/00 v0.0}
@@ -91,10 +95,6 @@
   *{file}   {Uibycus.fd}  {2004/10/18 v4.5}
   *{file}   {iby4extr.tex}{0000/00/00 v0.0}
   *{package}{ushort}      {2001/06/13 v2.2}
-  *{package}{graphicx}    {2020/09/09 v1.2b}
-  *{package}{graphics}    {2020/08/30 v1.4c}
-  *{package}{trig}        {2016/01/03 v1.10}
-  *{file}   {graphics.cfg}{2016/06/04 v1.11}
   *{package}{hyperref}    {2021-02-27 v7.00k}
   *{package}{kvdefinekeys}{2019-12-19 v1.6}
   *{package}{pdfescape}   {2019/12/09 v1.15}
