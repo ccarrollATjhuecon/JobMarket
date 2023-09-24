@@ -224,15 +224,13 @@ table.boxedverbatim {width:100%;}
  pre.boxedverbatim{border:solid 1px; padding-right:1em;} 
 table.boxedverbatim {text-align:center;}
 .listinginput p{ margin-bottom:0em; margin-top:0em; }
-span.accentset span.accent{font-size:80%; position:relative; top:-1.7ex; left:-0.6em;}
-span.underaccent span.accent{font-size:80%; position:relative; top:1.6ex; left:-0.6em;}
 .uline{ text-decoration:underline; }
 .uuline{ text-decoration:underline; }
 span.sout {text-decoration: line-through }
 span.xout {text-decoration: line-through }
 span.uwave {text-decoration:underline }
-.rotatebox{display: inline-block;}
 .underline-d{ border-bottom: 3px double black; margin-bottom:1pt; }
+.rotatebox{display: inline-block;}
 div.caption {text-align:left;font-size:83%;text-indent:0em; margin-left:2em; margin-right:2em; }
 div.caption span.id{font-variant: small-caps; white-space: nowrap; }
 .figure div.caption{text-align: center;}

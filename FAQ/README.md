@@ -1,1 +1,1 @@
-[FAQ](https://ccarrollATjhuecon.github.io/JobMarket-Public/FAQ/FAQ.html)
+[FAQ](https://ccarrollATjhuecon.github.io/JobMarket-Latest/FAQ/FAQ.html)
