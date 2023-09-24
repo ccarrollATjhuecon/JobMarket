@@ -1,1 +1,1 @@
-[TimeTable](https://ccarrollATjhuecon.github.io/JobMarket-Latest/TimeTable/TimeTable.html)
+[TimeTable](https://ccarrollATjhuecon.github.io/JobMarket-Public/TimeTable/TimeTable.html)
