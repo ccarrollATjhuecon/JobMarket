@@ -1,1 +1,1 @@
-[Jamborees](https://ccarrollATjhuecon.github.io/JobMarket-Public/Jamborees/Jamborees.html)
+[Jamborees](https://ccarrollATjhuecon.github.io/JobMarket-Latest/Jamborees/Jamborees.html)
