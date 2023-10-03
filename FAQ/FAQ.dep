@@ -1,9 +1,9 @@
 \RequireVersions{
-  *{application}{TeX}     {1990/03/25 v3.x}
+  *{application}{pdfTeX}  {0000/00/00 v1.40.22}
   *{format} {LaTeX2e}     {2020-10-01 v2.e}
   *{file}   {../Resources/.econtexPaths.tex}{0000/00/00 v0.0}
   *{class}  {../Resources/texmf-local/tex/latex/econtex}{2017/08/01 v0.0}
-  *{package}{snapshot}    {2002/03/05 v1.14}
+  *{package}{snapshot}    {2020/06/17 v2.14}
   *{package}{ifthen}      {2014/09/29 v1.1c}
   *{package}{changepage}  {2009/10/20 v1.0c}
   *{package}{currfile}    {2020/09/29 v0.7d}
@@ -92,7 +92,7 @@
   *{package}{psibycus}    {2004/10/18 v4.5}
   *{file}   {ibycus4.map} {0000/00/00 v0.0}
   *{file}   {Uibycus.fd}  {2004/10/18 v4.5}
-  *{file}   {iby4extr.tex}{0000/00/00 v0.0}
+  *{file}   {iby4extr}    {0000/00/00 v0.0}
   *{package}{ushort}      {2001/06/13 v2.2}
   *{package}{hyperref}    {2021-02-27 v7.00k}
   *{package}{kvdefinekeys}{2019-12-19 v1.6}
@@ -113,6 +113,12 @@
   *{package}{rerunfilecheck}{2019/12/05 v1.9}
   *{package}{uniquecounter}{2019/12/15 v1.4}
   *{file}   {t3cmr.fd}    {2001/12/31 v0.0}
+  *{file}   {t1cmtt.fd}   {2019/12/16 v2.5j}
+  *{file}   {umsa.fd}     {2013/01/14 v3.01}
+  *{file}   {umsb.fd}     {2013/01/14 v3.01}
+  *{file}   {ulasy.fd}    {1998/08/17 v2.2e}
+  *{file}   {uwasy.fd}    {2020/01/19 v2.4}
+  *{-------}{Document-specific files:}{----}
   *{file}   {translations-basic-dictionary-english.trsl}{(english v0.0}
   *{file}   {supp-pdf.mkii}{0000/00/00 v0.0}
   *{package}{epstopdf-base}{2020-01-24 v2.11}
@@ -124,9 +130,4 @@
   *{file}   {FAQ.out}     {0000/00/00 v0.0}
   *{package}{bookmark}    {2020-11-06 v1.29}
   *{file}   {bkm-pdftex.def}{2020-11-06 v1.29}
-  *{file}   {t1cmtt.fd}   {2019/12/16 v2.5j}
-  *{file}   {umsa.fd}     {2013/01/14 v3.01}
-  *{file}   {umsb.fd}     {2013/01/14 v3.01}
-  *{file}   {ulasy.fd}    {1998/08/17 v2.2e}
-  *{file}   {uwasy.fd}    {2020/01/19 v2.4}
 }
