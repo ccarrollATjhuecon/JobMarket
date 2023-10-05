@@ -5,3 +5,7 @@
 # Bard
 
 .latexmkrc merge=ours
+*.cfg      merge=ours
+*.html     merge=ours
+*.mk4      merge=ours
+*.css      merge=ours
