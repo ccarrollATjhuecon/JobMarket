@@ -12,13 +12,8 @@ bib
 bst
 
 ./bibtex/bib:
-auto
 economics.bib
 economics.bib~
-system.bib
-
-./bibtex/bib/auto:
-economics.el
 
 ./bibtex/bst:
 econtex.bst
@@ -31,14 +26,13 @@ latex
 plain
 
 ./tex/latex:
-.DS_Store
 ReadMe.texmf
 articleNoRefHead.cls
-auto
 bibMake.tex
 cvBibMake.tex
 econark.sty
 econtex.cls
+econtex.log
 econtex.sty
 econtexBibMake.tex
 econtexSetup.sty
@@ -52,14 +46,9 @@ makePostHandoutsStart.tex
 pdfsuppressruntime.sty
 printvrb.sty
 snapshot.sty
-subfiles.4ht
 tex4ht
 tex4htMakeCFG.sh
 titlesec.sty
-
-./tex/latex/auto:
-econark.el
-pdfsuppressruntime.el
 
 ./tex/latex/tex4ht:
 fix-domfilter-parsing-problems.cfg
@@ -84,4 +73,3 @@ tex4ht_and_table_of_content_issues_fix.cfg
 
 ./web2c:
 texmf.cnf
-texmf.cnf~
