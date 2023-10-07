@@ -81,6 +81,7 @@
   *{package}{manyfoot}    {2019/08/03 v1.11}
   *{package}{nccfoots}    {2005/02/03 v1.2}
   *{package}{perpage}     {2014/10/25 v2.0}
+  *{package}{tex4ht}      {0000/00/00 v0.0}
   *{package}{./Resources/texmf-local/tex/latex/econ-ark}{0000/00/00 v0.0}
   *{package}{subfiles}    {2020/11/14 v2.2}
   *{package}{import}      {2020/04/01 v6.2}
@@ -146,6 +147,7 @@
   *{file}   {url.4ht}     {0000/00/00 v0.0}
   *{file}   {natbib.4ht}  {0000/00/00 v0.0}
   *{file}   {footmisc.4ht}{0000/00/00 v0.0}
+  *{file}   {subfiles.4ht}{0000/00/00 v0.0}
   *{file}   {hyperref.4ht}{0000/00/00 v0.0}
   *{file}   {pd1enc.4ht}  {0000/00/00 v0.0}
   *{file}   {nameref.4ht} {0000/00/00 v0.0}
