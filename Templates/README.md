@@ -1,17 +1,24 @@
 # Template documents are in the appropriate locations:
 
-## [OneDrive](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/econplacement_jh_edu/EnCvGma1OPNEvpmaumDTxAkB8fIRq7o5hnowX1xGhCixWA?e=eyDKaU)
+## [OneDrive/templates/Moniker](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/econplacement_jh_edu/EnCvGma1OPNEvpmaumDTxAkB8fIRq7o5hnowX1xGhCixWA?e=eyDKaU)
 
-This is where to put things that need to be shared with jmstaff-jhuecon@jhu.edu, the JMPO, your advisors, and other JHU affiliates
+This is where you will find templates for the items that you need to put in your own OneDrive folder,
+replacing the "Moniker" in the filename with your actual Moniker. So, like, if I were on the market,
+I would have a file named `EmployersCarrollCD.xlsx` -- NOT `EmployersMonikerCarrollDC.xlsx`.
 
-  * EmployersMoniker
-  * InterviewsMoniker
-  * MemoMoniker
-  * SpielsMoniker
+  * [EmployersMoniker](https://ccarrollATjhuecon.github.io/Steps/#employers-lists)
+    - [`EmployersMoniker.xlsm`](https://livejohnshopkins-my.sharepoint.com/:x:/g/personal/econplacement_jh_edu/EUXOP3uK5X9EgqUy8v72KgIBi8Bgy5dv53-QYnGkj9ttag?e=hmPSaY)
+  * [InterviewsMoniker] - to keep track of interviews
+    - [`InterviewsMoniker.xlsx`](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/econplacement_jh_edu/EuLpAiLBlKxJiA681OAjMiIBqdYrJrfcAUQxarLFe4pU7A?e=fPOwyf)
+  * MemoMoniker - send a link of this to the JMPO and your advisors when it is posted
+    - [`MemoMoniker.tex`](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/econplacement_jh_edu/EbKwIYCn44dMjpQTictKWboBXUjz8b0iQMTB-c5yPjdGgQ?e=QMQZQu)
+  * SpielsMoniker - Your spiels
+    - [`SpielsMoniker.tex`](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/econplacement_jh_edu/ET8ilNbW1ktEnj8bsDUedXQBDu0GjU-CAjtPEofvvIxx5Q?e=k73yrt)
   
-Because your cover letters need to use your employers spreadsheets, it is also where our template for creating cover letters is:
+Because your cover letters need to use your EmployersMoniker spreadsheets, it is also where our template for creating cover letters is:
 
   * CreateCoverLetters
+    - [`CreateCoverLetters.doc`](https://livejohnshopkins-my.sharepoint.com/:w:/g/personal/econplacement_jh_edu/EftNCyjLEctGgnYk2V9J-yoBmJ7Sx3VXfKi1_rZJA-hdtg?e=igNoIl)
 
 ## [JobMarket-Templates](https://github.com/ccarrollATjhuecon/JobMarket-Templates)
 
