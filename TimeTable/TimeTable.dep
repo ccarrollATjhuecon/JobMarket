@@ -112,45 +112,8 @@
   *{package}{nameref}     {2021-04-02 v2.47}
   *{package}{refcount}    {2019/12/15 v3.6}
   *{package}{gettitlestring}{2019/12/15 v1.6}
-  *{file}   {ifthen.4ht}  {0000/00/00 v0.0}
-  *{file}   {scrartcl.4ht}{0000/00/00 v0.0}
-  *{file}   {babel.4ht}   {0000/00/00 v0.0}
-  *{file}   {english.4ht} {0000/00/00 v0.0}
-  *{file}   {verbatim.4ht}{0000/00/00 v0.0}
-  *{file}   {amsmath.4ht} {0000/00/00 v0.0}
-  *{file}   {amstext.4ht} {0000/00/00 v0.0}
-  *{file}   {amsbsy.4ht}  {0000/00/00 v0.0}
-  *{file}   {amsopn.4ht}  {0000/00/00 v0.0}
-  *{file}   {amssymb.4ht} {0000/00/00 v0.0}
-  *{file}   {amsfonts.4ht}{0000/00/00 v0.0}
-  *{file}   {amsthm.4ht}  {0000/00/00 v0.0}
-  *{file}   {dcolumn.4ht} {0000/00/00 v0.0}
-  *{file}   {array.4ht}   {0000/00/00 v0.0}
-  *{file}   {multicol.4ht}{0000/00/00 v0.0}
-  *{file}   {multirow.4ht}{0000/00/00 v0.0}
-  *{file}   {booktabs.4ht}{0000/00/00 v0.0}
-  *{file}   {afterpage.4ht}{0000/00/00 v0.0}
-  *{file}   {moreverb.4ht}{0000/00/00 v0.0}
-  *{file}   {xcolor.4ht}  {0000/00/00 v0.0}
-  *{file}   {color.4ht}   {0000/00/00 v0.0}
-  *{file}   {dvips.4ht}   {0000/00/00 v0.0}
-  *{file}   {accents.4ht} {0000/00/00 v0.0}
-  *{file}   {appendix.4ht}{0000/00/00 v0.0}
-  *{file}   {eucal.4ht}   {0000/00/00 v0.0}
-  *{file}   {ulem.4ht}    {0000/00/00 v0.0}
-  *{file}   {bm.4ht}      {0000/00/00 v0.0}
-  *{file}   {url.4ht}     {0000/00/00 v0.0}
-  *{file}   {natbib.4ht}  {0000/00/00 v0.0}
-  *{file}   {footmisc.4ht}{0000/00/00 v0.0}
-  *{file}   {graphicx.4ht}{0000/00/00 v0.0}
-  *{file}   {graphics.4ht}{0000/00/00 v0.0}
-  *{file}   {hyperref.4ht}{0000/00/00 v0.0}
-  *{file}   {pd1enc.4ht}  {0000/00/00 v0.0}
-  *{file}   {nameref.4ht} {0000/00/00 v0.0}
-  *{file}   {t3cmr.fd}    {2001/12/31 v0.0}
-  *{file}   {t3cmr.fd}    {2001/12/31 v0.0}
-  *{file}   {translations-basic-dictionary-english.trsl}{(english v0.0}
-  *{file}   {translations-basic-dictionary-english.trsl}{(english v0.0}
+  *{file}   {TimeTable.out}{0000/00/00 v0.0}
+  *{file}   {TimeTable.out}{0000/00/00 v0.0}
   *{package}{bookmark}    {2020-11-06 v1.29}
   *{file}   {bkm-dvips.def}{2020-11-06 v1.29}
   *{file}   {bkm-dvips.def}{2020-11-06 v1.29}
