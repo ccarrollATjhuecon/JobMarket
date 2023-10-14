@@ -1,12 +1,12 @@
 # Template documents are in the appropriate locations:
 
-## [OneDrive/templates/Moniker](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/econplacement_jh_edu/EnCvGma1OPNEvpmaumDTxAkB8fIRq7o5hnowX1xGhCixWA?e=eyDKaU)
+## [OneDrive/templates/Moniker](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/econplacement_jh_edu/EuLpAiLBlKxJiA681OAjMiIBsImAqRMYuu-HKEIX0-t1Lw?e=dqQIV3)
 
 This is where you will find templates for the items that you need to put in your own OneDrive folder,
 replacing the "Moniker" in the filename with your actual Moniker. So, like, if I were on the market,
 I would have a file named `EmployersCarrollCD.xlsx` -- NOT `EmployersMonikerCarrollDC.xlsx`.
 
-  * [EmployersMoniker](https://ccarrollATjhuecon.github.io/Steps/#employers-lists)
+  * [EmployersMoniker](https://ccarrollATjhuecon.github.io/JobMarket/Steps/#employers-lists)
     - [`EmployersMoniker.xlsm`](https://livejohnshopkins-my.sharepoint.com/:x:/g/personal/econplacement_jh_edu/EUXOP3uK5X9EgqUy8v72KgIBi8Bgy5dv53-QYnGkj9ttag?e=hmPSaY)
   * [InterviewsMoniker] - to keep track of interviews
     - [`InterviewsMoniker.xlsx`](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/econplacement_jh_edu/EuLpAiLBlKxJiA681OAjMiIBqdYrJrfcAUQxarLFe4pU7A?e=fPOwyf)
