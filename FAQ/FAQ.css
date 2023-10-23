@@ -9,10 +9,6 @@
 .ecti-1200{ font-style: italic;}
 .ecti-1200{ font-style: italic;}
 .ecti-1200{ font-style: italic;}
-.ecti-1200{ font-style: italic;}
-.ecti-1200{ font-style: italic;}
-.ecbx-1200{ font-weight: bold;}
-.ecbx-1200{ font-weight: bold;}
 .ecbx-1200{ font-weight: bold;}
 .ecbx-1200{ font-weight: bold;}
 .ecbx-1200{ font-weight: bold;}
@@ -31,9 +27,6 @@
 .ectt-1200{ font-family: monospace,monospace;}
 .ectt-1200{ font-family: monospace,monospace;}
 .ectt-1200{ font-family: monospace,monospace;}
-.ectt-1200{ font-family: monospace,monospace;}
-.ectt-1200{ font-family: monospace,monospace;}
-.ecrm-1095{font-size:83%;}
 .ecrm-1000{font-size:83%;}
 .ecti-1000{font-size:83%; font-style: italic;}
 .ecti-1000{ font-style: italic;}
@@ -43,18 +36,6 @@
 .ecti-1000{ font-style: italic;}
 .ecti-1000{ font-style: italic;}
 .ecti-1000{ font-style: italic;}
-.ecti-1000{ font-style: italic;}
-.ecti-1000{ font-style: italic;}
-.ectt-1095{font-size:83%; font-family: monospace,monospace;}
-.ectt-1095{ font-family: monospace,monospace;}
-.ectt-1095{ font-family: monospace,monospace;}
-.ectt-1095{ font-family: monospace,monospace;}
-.ectt-1095{ font-family: monospace,monospace;}
-.ectt-1095{ font-family: monospace,monospace;}
-.ectt-1095{ font-family: monospace,monospace;}
-.ectt-1095{ font-family: monospace,monospace;}
-.ectt-1095{ font-family: monospace,monospace;}
-.ectt-1095{ font-family: monospace,monospace;}
 p{margin-top:0;margin-bottom:0}
 p.indent{text-indent:0;}
 p + p{margin-top:1em;}
