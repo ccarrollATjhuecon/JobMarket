@@ -4,7 +4,7 @@
 \usepackage{graphicx}
 \usepackage{\LaTeXInputs/local}
 \usepackage{\packages/econtexSetup}
-%\usepackage{\packages/econark}
+% \usepackage{\packages/econark}
 \usepackage[normalem]{ulem}
 \newcommand\redout{\bgroup\markoverwith
   {\textcolor{red}{\rule[.5ex]{2pt}{1pt}}}\ULon}
@@ -17,15 +17,15 @@
 \begin{document}
 \renewcommand{\thepage}{} % Get rid of page numbers, which don't convert to md or html
 
-\hfill{\tiny \jobname, \today}
-\vspace{.1in}
+% \hfill{\tiny \jobname, \today}
+% \vspace{.1in}
 
 \begin{verbatimwrite}{\jobname.title}
   Recommendation Letters Procedures
 \end{verbatimwrite}
-{\Large Recommendation Letters Procedures}\medskip\medskip
+\centerline{\textbf{{\Large Recommendation Letters Procedures}}}\medskip\medskip
 
-{\today}\medskip\medskip
+% {\today}\medskip\medskip
 
 \section{Information for Students and Staff}\hypertarget{students-and-staff}{}
 
@@ -59,47 +59,58 @@ potential to end up making everyone's letters late, so we can do this
 only once that risk has been eliminated.  The only exception to this
 rule is the IMF, which has its own procedures that we do follow.
 
-Some employers have a deadline before Nov 15 (a few as early as Nov
-1).  Most employers have deadlines in middle to late November.
+Some employers have a deadline before Nov 1 (a few as early as Oct 
+15), but the median employer has deadlines in middle to late November.
 Finally, employers with late job postings may appear in the December
 JOE.
 
-For each timeframe, you will send to \jmstaffemail~a list of employers
-to which you are applying: \EMtt-\texttt{[Which]}~where ``Which'' will
-be the words ``Early,'' ``Middle'', or ``Late.''  There should be at 
-least a week between the date when you send the spreadsheet and the
-earliest application due-date contained therein.  Thus, if you want to
-apply to some jobs that have a deadline of Nov 1, then by October 23
-you would send \EMtt-\Early.  It would be good to include also in the
-``Early'' spreadsheet employers with a deadline up to Nov 15 or 16, 
-so that the workload is spread out over time as much as possible.  
-By Nov 8 you would send \EMtt-\Mid~with the employers
-who have November deadlines that you did not send in your ``Early''
-spreadsheet.  Finally, if any new jobs are posted in the December JOE
-that you want to apply to, then sometime around Dec 7 you would send
-\EMtt-\Late.  (It is good to include as many employers as possible in
-your ``Late'' spreadsheet because this spreads out the work that
-\JMStaff~has to do more evenly over time).
+This means that, in your {\EMW} worksheet, you will need to mark each
+employer with an indicator for which `batch' the letters should be
+assigned to: 
 
-You will get these 3 (and ONLY these 3) opportunities to apply to
-jobs.  It is impossible for the staff, for every student, to keep
-track of more than 3 spreadsheets each of which has multiple
-employers; experience tells us that everything breaks down if every
-few days each student drops by the office (or sends an email) saying
-``oh by the way, please add the following 4 employers to my list.''
+% \begin{tabular}{lll}
+    %     Employer Deadline & You Have Completed        \\ \hline
+    %     Before Nov 15     & October 15                \\
+%   Nov 15            & Put half of these & Nov 1 \\
+%   Remaining Nov 15
+% \end{tabular}
+
+\medskip
+\begin{quote}
+\begin{table}[h]
+  \begin{tabular}{l|l|l}
+    Batch     & Contains                        & You Finish By        \\ \hline
+    Early     & ALL due BEFORE Nov 15           & Oct 15               \\
+              & AND HALF of Nov 15 deadlines    &                      \\
+    Middle    & Remaining Nov 15 deadlines      & Nov 1                \\
+    Late      & Post-Nov 15 deadlines           & Nov 15               \\
+    Late-Post & New listings as they trickle in & Ongoing after Nov 15 \\
+              & Communicate with {\JMStaffName} &                      \\ \hline
+  \end{tabular}
+\end{table}
+\end{quote}
+
+You will keep track of the employers that correspond to each batch 
+by attaching the appropriate label to that employer in a special
+column in the spreadsheet.  There should be at 
+least a week between the date when you send the spreadsheet and the
+earliest application due-date contained therein.  Finally any new job postings
+that trickle in after Nov 15 will be handled on a piecemeal basis
+as part of the ``Late-Post'' batch.
 
 Broadly, for each iteration your steps are as follows:
 \begin{enumerate}
 \item Produce your version of \EMtt~(by ``your version'' I mean, of
   course, to rename the template file to, for example,
-  \texttt{EmployersThomK-Early.xlsx} if you are Kevin Thom and it is
-  your \Early~list) that contains \textit{all} the employers, and \textit{    only} the employers, that you are actually applying to in this
+  \texttt{EmployersThomK-Early.xlsm} if you are Kevin Thom and it is
+  your \Early~list) that contains \textit{all} the employers, and \textit{only} the employers, that you are actually applying to in this
   round.  (You probably will have some employers you have thought
   about but have decided not to apply to, or to apply to in later rounds; if you want to preserve that
   information, please copy and paste it to another spreadsheet, and
   remove it from your main~{\EMW}~spreadsheet that you will give to the
   staff.)
 
+  
 \item Sort your \EMtt~spreadsheet according to five sort keys:
   \begin{enumerate} 
   \item Date on which the staff are to send the recommendation letters; 
@@ -115,29 +126,29 @@ Broadly, for each iteration your steps are as follows:
 
   (There should be a macro (\texttt{Ctrl}+\texttt{w}) built into \EMtt~that can be
   executed to accomplish this sort -- see the instructions in
-  \EMtt\texttt{-Instructions.xlsx}).
+  \EMtt's \texttt{Instructions} tab).
 
   % \item \redout{After sorting the spreadsheet, execute the macro to ``hide'' the information that \JMStaff~does not need for purposes of tracking which letters have been sent.  (Instructions for how to execute this macro should be on the first page of \EMtt).}
-\item Put the {\EMtt}~list in your \texttt{Private} directory on the server.
-  
-\item Then send an email message {\EMtt}~to {\jmstaffemail}~AND to {\JMPOEmail}, letting us know that the list has been posted, AND containing a clickable link to the file.  For example, if I were applying in 2020, and this was my ``Early'' list, I'd send a message like:
 
-  \begin{quote}
-    \begin{texttt}
-      To: \jmstaffemail , \JMPOEmail
+% \item Then send an email message {\EMtt}~to {\jmstaffemail}~AND to {\JMPOEmail}, letting us know that the list has been posted, AND containing a clickable link to the file.  For example, if I were applying in 2020, and this was my ``Early'' list, I'd send a message like:
+
+%   \begin{quote}
+%     \begin{texttt}
+%       To: \jmstaffemail , \JMPOEmail
       
-      Subject: EmployersCarrollCD.xlsm is posted
+%       Subject: EmployersCarrollCD.xlsm is posted
 
-      \indent I have posted my first Employers speadsheet at:
+%       \indent I have posted my first Employers speadsheet at:
 
-      (link to the spreadsheet in OneDrive)
+%       (link to the spreadsheet in OneDrive)
       
-    \end{texttt}
-  \end{quote}    
+%     \end{texttt}
+%   \end{quote}    
 
-  (The placement director needs to know where you have applied for a host of reasons, including being prepared for calls that employers might make seeking further info).
+%   (The placement director needs to know where you have applied for a host of reasons, including being prepared for calls that employers might make seeking further info).
 
-  % \item \redout{You'll probably want next to immediately ``unhide'' those columns that were hidden, so that you can see them yourself.  Again, there should be a macro that accomplishes this described in the first-page instructions.}
+  \item \redout{You'll probably want next to immediately ``unhide'' those columns that were hidden, so that you can see them yourself.  Again, there should be a macro that accomplishes this described in the first-page instructions.}
+
 
 \item \textit{After having sent} their~{\EMW}~spreadsheet, the student
   should follow the steps outlined in detail below for those
@@ -145,17 +156,12 @@ Broadly, for each iteration your steps are as follows:
 
 \item \textit{After taking care of their push and pull email applications}, students should complete their {\EJM}~, \AJO, \AEA, and \Interfolio~applications for this round (see below for details).
 
-\item \textit{After having done all of this}, the student should email
-  their recommenders and ask them to send their letters to
-  {\jmstaffemail}.  Note that your request to recommenders needs to come
-  last because if the letters arrive before the other steps have been
-  taken, the letters may get lost.  (Though it would be wise to remind
-  your advisors a week or two beforehand that letters from them will
-  be needed soon).
+\item \textit{After having done all of this}, the student should email their recommenders and ask them to send their letters to {\jmstaffemail}.  Note that your request to recommenders needs to come last because if the letters arrive before the other steps have been taken, the employer probably won't have a file for you and the letters may get lost.  (Though it would be wise to remind your advisors a week or two beforehand that letters from them will be needed soon).
 
 \end{enumerate}
 
-More detailed procedures are below:
+%More detailed procedures are below (see also the \href{\pageurl/RecLetters/#information-for-faculty}{Information For Faculty} section below):
+
 \begin{enumerate}
 
 \item \textbf{\EJM ~ (\EJMLink):}
@@ -172,7 +178,6 @@ More detailed procedures are below:
 
     \end{itemize}
 
-
   \item Recommenders who are not Department of Economics full-time faculty and who do NOT have their own
     login ID at \EJM~will need to have an account created for them (the account is created automatically the first time a student identifies the recommender by giving \EJM~the recommender's email address), then they must upload their letters themselves.\footnote{They follow the same steps that the
       staff completes in the bullet point about JHU faculty.  They
@@ -184,12 +189,15 @@ More detailed procedures are below:
 
   \end{itemize}
 
+  
 \item \textbf{\AJO ~ (\AJOLink):}
   Students will enter {\JMStaffName}'s name, with the email address \jmstaffemail, on the cover sheet provided by the AJO system. Check the box: ``must check here if the person above will upload letters on behalf of multiple writers'' and enter the actual writers' names in the box provided. After all reference letters for each student are received, {\JMStaffName} will make 1 PDF file of all letters and upload their file to the AJO site. The student will be allowed to see when this upload is complete. This service will be provided for both JHU Economics and external recommenders.
 
 \item \textbf{\AEA ~ (\AEALink):}
   Students who are using \AEA~must ask their JHU Economics Department reference writer to go to \AEARecLink~ and set up a surrogate for their reference letters. The surrogate name is {\JMStaffName}~{\JMStaffNameLast}~and the email address is \jmstaffemail. %This service will be provided for JHU Economics professors only. Recommenders who are not Department of Economics full-time faculty must upload their letters themselves, including recently departed JHU faculty who still have an official JHU email (the letter writer must write from their new institution).
 
+  For details, see the \href{\pageurl/RecLetters#information-for-faculty}{Information For Faculty} section.
+  
 \hypertarget{students-interfolio}{}
 \item \textbf{\Interfolio ~ (\InterfolioLink):}
   Before using the Interfolio System, students must wait for an email from {\JMStaffName} indicating that she has received \textit{all} your letters of recommendation. {\JMStaffName} will tell you if you have multiple letters of recommendation from a specific faculty member as well as the type of recommendation (for example: Generic, Academic, or Non-Academic). \textit{Do not proceed} with the recommendation requests if you don't know the type of recommendation letter you are getting from each specific faculty member.
@@ -330,16 +338,22 @@ More detailed procedures are below:
 Most of what the staff will do for recommendation letters is implicit in the previous section.  To
 summarize:
 \begin{enumerate}
-\item You will receive an \EMtt~spreadsheet from a student.  When you receive it, insert a new Column A and save the spreadsheet to the students electronic folder located on the (X) drive or Stella as it is named. This new column will be used to mark off each employer once their letters are sent to them.
+\item The \EMtt~spreadsheet from a student should be accessible to you automatically.  When you receive it, insert a new Column A and save the spreadsheet to the students electronic folder located on the (X) drive or Stella as it is named. This new column will be used to mark off each employer once their letters are sent to them.
 \item \textit{After} you receive that spreadsheet, you should start receiving requests for letters through~\jmstaffemail.  
-\item Some naughty students may request letters via~\EJM~or the push or pull email procedures before they send you the spreadsheet; if you receive such requests before having received the student's spreadsheet, please send them a message asking them to IMMEDIATELY send you their spreadsheet, so that you can keep track of which letters have been sent.
-\item Whenever you fulfill a request for letters through~\jmstaffemail, put a checkmark on the corresponding line in the student's printed spreadsheet.
+\item Some naughty students may request letters via~\EJM~or the push or pull email procedures before they have created their spreadsheet; if you receive such requests before having received the student's spreadsheet, please send them a message asking them to IMMEDIATELY construct their \EMtt spreadsheet (and put it in the right place).
+\item Whenever you fulfill a request for letters through~\jmstaffemail, keep track in the student's spreadsheet.
 \item If a deadline is looming and you do NOT have a checkmark on the student's spreadsheet, there may be a problem of some kind: The employer mistyped the email address for \jmstaffemail, the student made a mistake somewhere, etc.  As the big deadlines approach, please look at the spreadsheets and see whether there are letters that should have been sent but have not been.
   % \item If different staff persons are handling different categories of letters (like, one person is handling snail mail letters and another is handling the rest), then each person responsible for a particular category of letters should print their own copy of the spreadsheet and keep track of the letters they personally have sent.
 \end{enumerate}
 \hypertarget{information-for-faculty}{}
 
-\section{Information for Faculty}\ifdvi\hypertarget{FacInfo}{(FacInfo)}\fi
+\section{Information for Faculty}%\ifdvi\hypertarget{FacInfo}{(FacInfo)}\fi
+
+The list of ways in which we are prepared to send letters is available {\href{\pageurl/RecLetters/#students-and-staff}{here.}}
+
+You do not need to master all these. Instead, you will send a PDF of your letter to {\JMStaffName}, who will take care of the rest.
+
+However, if you are not already registered with the various authorities, there are a few steps you will need to take, adumbrated below:
 
 \begin{enumerate}
 
@@ -348,8 +362,21 @@ summarize:
 
   You will need to go to the \href{\AEAurl}{AEA website}, login,  and click under ``Settings'' (or maybe ``Preferences'') to get to the place where you can register a surrogate, which should of course be \jmstaffemail.
 
-  The student will select you as a writer by using the email address under which you are registered on \AEALink.  When that happens, the AEA will send you an email informing you of the fact.  If you have already set your surrogate, you do not need to do anything (except send the letter to the surrogate).
-  
+  \hypertarget{let-jmstaff-fulfill-letters}{}
+  The job candidate will select you as a writer using the email address under which you are registered on \AEALink.  When a candidate has selected you, the AEA will send you an email informing you of the fact.  If you have already set {\JMStaffName} as your surrogate, you do not need to do anything (except send the letter to the surrogate when ready).
+
+
+  \begin{quote}
+    On both {\EJM} and {\AEAref} there is an option to automatically fulfill letters whenever an employer requests them. Please do NOT do this -- leave it to {\JMStaffName}.
+    \begin{itemize}
+    \item {\JMStaffName} is designated as the `single source of truth' responsible for knowing which letters have been sent
+    \item This is difficult if letters are being fulfilled in ways unknown to {\JMStaffName}
+    \item {\JMStaffName} has acquired the expertise to navigate the various systems
+      \begin{itemize}
+        \item It would be a substantial collective waste of faculty time to ask each faculty member to do this
+        \end{itemize}
+      \end{itemize}
+  \end{quote}
   
 \item \textbf{\EJM:} Each JHU faculty member sending a recommendation letter will need to have an account at \EJM ~ (\EJMLink). Your account is first established by the STUDENT who first requests a letter from you. That student must provide to \EJM~a valid \texttt{@jhu.edu} email address for you.  Personal email addresses like those from \texttt{gmail} or \texttt{yahoo} are now prohibited by \EJM~ for security reasons. 
 
