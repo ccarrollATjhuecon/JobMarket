@@ -5,7 +5,7 @@ Before creating cover letters, your [`EmployersMoniker.xlsm`](https://livejohnsh
 
 Depending whether you are using Office 2003, 2007 or 2010 and later, what you see on your screen may be slightly different from the instructions below. The instruction is based on Office 2007.
 
-The template for creating cover letters for your mass mailing is [CreateCoverLetters](https://github.com/ccarrollATjhuecon/JobMarket/blob/main/Templates/) document in [Templates](https://github.com/ccarrollATjhuecon/JobMarket/blob/main/Templates/)
+The template for creating cover letters for your mass mailing is the [CreateCoverLetters](https://github.com/ccarrollATjhuecon/JobMarket/blob/main/Templates/) topic in [Templates](https://github.com/ccarrollATjhuecon/JobMarket/blob/main/Templates/)
 
 When you open your copy of this document, click "Enable Macros" at the pop-up warning window.
 

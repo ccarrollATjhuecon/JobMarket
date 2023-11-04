@@ -18,7 +18,10 @@ I would have a file named `EmployersCarrollCD.xlsm` -- NOT `EmployersMonikerCarr
 Because your cover letters need to use your EmployersMoniker spreadsheets, it is also where our template for creating cover letters is:
 
   * CreateCoverLetters
+    - [`CreateCoverLetters-Instructions`](https://github.com/ccarrollATjhuecon/JobMarket/blob/main/Templates/CreateLabelandCoverLetterInstruction.md)
     - [`CreateCoverLetters.doc`](https://livejohnshopkins-my.sharepoint.com/:w:/g/personal/econplacement_jh_edu/EftNCyjLEctGgnYk2V9J-yoBmJ7Sx3VXfKi1_rZJA-hdtg?e=igNoIl)
+	
+
 
 ## [JobMarket-Templates](https://github.com/ccarrollATjhuecon/JobMarket-Templates)
 
