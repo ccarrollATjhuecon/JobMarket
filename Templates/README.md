@@ -1,54 +1,43 @@
-# Template documents are in the appropriate locations:
+# Template documents
 
-> ⚠️ **Status (2026-08-10): the OneDrive links in the next section are currently dead.**
-> They point into the *personal* drive of the `econplacement@jh.edu` account, which JHU IT
-> has locked, so they fail even for JHU-authenticated browsers. The spreadsheets and
-> templates are being re-hosted. **Ask the JMPO for current copies of `EmployersMoniker.xlsm`,
-> `InterviewsMoniker.xlsx`, `MemoMoniker.tex`, `SpielsMoniker.tex`, and
-> `CreateCoverLetters.doc` rather than following these links.** The
-> [JobMarket-Templates](https://github.com/ccarrollATjhuecon/JobMarket-Templates) section
-> further down is unaffected and still works.
+The templates below now live **in this directory**, in the repository. They were
+previously on a OneDrive folder belonging to the `econplacement@jh.edu` account,
+which JHU IT has locked; those links no longer work for anyone and have been
+replaced with links to the files themselves.
 
-## [OneDrive/templates/Moniker](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/econplacement_jh_edu/EuLpAiLBlKxJiA681OAjMiIBsImAqRMYuu-HKEIX0-t1Lw?e=dqQIV3)
+Copy each one, replacing "Moniker" in the filename with your actual
+[Moniker](https://ccarrollATjhuecon.github.io/JobMarket/Notation). So, if I were on
+the market, I would have a file named `EmployersCarrollCD.xlsm` -- NOT
+`EmployersMonikerCarrollCD.xlsm`.
 
-This is where you will find templates for the items that you need to put in your own OneDrive folder,
-replacing the "Moniker" in the filename with your actual Moniker. So, like, if I were on the market,
-I would have a file named `EmployersCarrollCD.xlsm` -- NOT `EmployersMonikerCarrollDC.xlsm`.
+### The files
 
-### Links
+  * [`EmployersMoniker.xlsm`](https://github.com/ccarrollATjhuecon/JobMarket/blob/main/Templates/EmployersMoniker.xlsm)
+    -- the employers list. See
+    [Employers lists](https://ccarrollATjhuecon.github.io/JobMarket/Steps/#employers-lists).
+    Macro-enabled: `Ctrl+w` sorts by when letters were requested. The example rows are
+    fictional; replace them.
+  * [`InterviewsMoniker.xlsx`](https://github.com/ccarrollATjhuecon/JobMarket/blob/main/Templates/InterviewsMoniker.xlsx)
+    -- to keep track of interviews.
+  * [`MemoMoniker.tex`](https://github.com/ccarrollATjhuecon/JobMarket/blob/main/Templates/MemoMoniker.tex)
+    -- your self-descriptive memo. Share it with the JMPO and your advisors once posted.
+  * [`SpielsMoniker.tex`](https://github.com/ccarrollATjhuecon/JobMarket/blob/main/Templates/SpielsMoniker.tex)
+    -- your spiels.
 
-  * [EmployersMoniker](https://ccarrollATjhuecon.github.io/JobMarket/Steps/#employers-lists)
-    - [`EmployersMoniker.xlsm`](https://livejohnshopkins-my.sharepoint.com/:x:/g/personal/econplacement_jh_edu/EUXOP3uK5X9EgqUy8v72KgIBi8Bgy5dv53-QYnGkj9ttag?e=hmPSaY)
-  * [InterviewsMoniker] - to keep track of interviews
-    - [`InterviewsMoniker.xlsx`](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/econplacement_jh_edu/EuLpAiLBlKxJiA681OAjMiIBqdYrJrfcAUQxarLFe4pU7A?e=fPOwyf)
-  * MemoMoniker - send a link of this to the JMPO and your advisors when it is posted
-    - [`MemoMoniker.tex`](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/econplacement_jh_edu/EbKwIYCn44dMjpQTictKWboBXUjz8b0iQMTB-c5yPjdGgQ?e=QMQZQu)
-  * SpielsMoniker - Your spiels
-    - [`SpielsMoniker.tex`](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/econplacement_jh_edu/ET8ilNbW1ktEnj8bsDUedXQBDu0GjU-CAjtPEofvvIxx5Q?e=k73yrt)
-  
-Because your cover letters need to use your EmployersMoniker spreadsheets, it is also where our template for creating cover letters is:
+Because your cover letters are generated from your `EmployersMoniker` spreadsheet, the
+mail-merge template is here too:
 
-  * CreateCoverLetters
-    - [`CreateCoverLetters-Instructions`](https://github.com/ccarrollATjhuecon/JobMarket/blob/main/Templates/CreateLabelandCoverLetterInstruction.md)
-    - [`CreateCoverLetters.doc`](https://livejohnshopkins-my.sharepoint.com/:w:/g/personal/econplacement_jh_edu/EftNCyjLEctGgnYk2V9J-yoBmJ7Sx3VXfKi1_rZJA-hdtg?e=igNoIl)
-	
-
+  * [`CreateCoverLetters.doc`](https://github.com/ccarrollATjhuecon/JobMarket/blob/main/Templates/CreateCoverLetters.doc)
+    -- the mail-merge document, with
+    [instructions](https://github.com/ccarrollATjhuecon/JobMarket/blob/main/Templates/CreateLabelandCoverLetterInstruction.md).
+    The sample letter is a worked example: replace the name, address and text with your own.
 
 ## [JobMarket-Templates](https://github.com/ccarrollATjhuecon/JobMarket-Templates)
 
   * Templates for public-facing documents (CV, JobPaper, Abstract, etc)
      * Make a **fork** of this GitHub repo (google if you don't understand)
      * Clone your fork to your local machine (google is your friend)
-	 * Make and checkout a **branch** named after your moniker
-	 * Personalize the documents on your computer
+     * Make and checkout a **branch** named after your moniker
+     * Personalize the documents on your computer
   * Documents generated by the templates go into your `moniker-dir`
-  * `moniker-dir` should be the source for your `online files`
-  
-## [`online-files`](https://github.com/ccarrollATjhuecon/JobMarket/blob/main/JobMarketProceduresHelp.md) posted to JHU Econ server
-
-This is where the web page looks for your job market materials, like CV and abstract etc.
-
-  * Generated by customizing the materials in **JobMarket-Templates** as above
-  * Once you have generated your personalized versions:
-     * Mount the remote drive to the directorry named after your Moniker
-	 * Copy all the materials from your `moniker-dir` to the mounted folder
+  * `moniker-dir` is the source for the material you publish on your own website
