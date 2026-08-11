@@ -632,3 +632,18 @@ math.equation{ display: block !important; margin: 0 auto; text-align: center; }
 .equation-star{ display: block; text-align: center; margin-top: 1.5em; margin-bottom: 1.5em; }
 /* end css.sty */
 
+
+/* --- JobMarket readability overrides (appended by makeWeb.sh) --- */
+body { font-size: 1.125rem; line-height: 1.6; color: #1a1a1a; }
+a:link, a:visited {
+    color: #0b5fa5;
+    text-decoration: underline;
+    border: none;
+    padding: 0;
+}
+a:hover, a:active {
+    color: #08406e;
+    background-color: transparent;
+    border: none;
+}
+table.tabular td { padding: 0.3em 0.7em; vertical-align: baseline; }
