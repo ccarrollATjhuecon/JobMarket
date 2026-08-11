@@ -1,5 +1,42 @@
 # Job Market Procedures
 
+> ## ⚠️ The procedure below is OUT OF DATE — do not follow it
+>
+> **Status: 2026-08-10. This section needs to be re-engineered, not just re-linked.**
+>
+> It describes a workflow in which the JMCC creates a folder for you on the
+> departmental server and your candidate page is published at
+> `www.econ2.jhu.edu/jobmarket/<year>/<Moniker>/`. **That has not happened since
+> 2023.** Checked directly: `2016/RondaV/` still returns 200, but there is no
+> `2024/`, `2025/` or `2026/` tree at all, and no folder for any current
+> candidate. Any URL of the form `www.econ2.jhu.edu/jobmarket/year/LastnameFM`
+> is dead — `year` and `LastnameFM` were always meant as placeholders, but the
+> whole scheme underneath them is gone.
+>
+> **What appears to have replaced it:** candidates maintain their **own personal
+> websites**, which the department links from the
+> [Job Market Candidates page](http://econ.jhu.edu/directoryindex/job-market/).
+> That is what the JMPO told the 2026–27 cohort in May 2026 — "each of you should
+> have such a website … one of the things you should plan to accomplish over the
+> summer" — noting that only one candidate then had one linked.
+>
+> **Still to be decided by the JMPO before this can be rewritten:**
+> - Who links a candidate's site from the departmental page, and how it is requested.
+>   (In May 2026 this was an open question — the web liaison, possibly a student.)
+> - Whether the `Abstract / CV / JobPaper / JobTalk / NonThesisPapers /
+>   OtherThesisPapers / Private` folder structure and the `template.txt` file still
+>   mean anything, or are artifacts of the retired server workflow.
+> - Whether the naming convention below (`CVLastnameFM.pdf` etc.) should still be
+>   required on a candidate's own site. There is a real argument that it should:
+>   it is what makes a link predictable and stops it going dead.
+> - Whether anything replaces the server as a departmental archive of candidate
+>   materials.
+>
+> The text below is kept because parts of it — the naming convention, the
+> Moniker rule, the rec-letter procedures further down — are still sound. **The
+> server-folder mechanics are not.** The recommendation-letter sections after
+> "Reference Letters" are unaffected by this notice.
+
 ## Updating Job Market Candidates' Folders
 
 ### Introduction
