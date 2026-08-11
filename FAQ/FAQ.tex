@@ -17,7 +17,7 @@
 \pagestyle{plain}
 \hypersetup{pageanchor=false} % prevents useless warning messages
 \begin{document}
-\hfill{\tiny \jobname, \today} \vspace{.1in}
+\hfill{\tiny \jobname, last reviewed \lastreviewed} \vspace{.1in}
 
 \begin{verbatimwrite}{\jobname.title}
   Frequently Asked Questions About the Job Market
@@ -25,7 +25,7 @@
 
 \section*{\Large Frequently Asked Questions About the Job Market}\medskip\medskip
 
-\centerline{\today}\medskip\medskip
+\centerline{\small Last reviewed: \lastreviewed}\medskip\medskip
 
 % \ifthenelse{\boolean{MyNotes}}{\marginpar{\tiny }}{}
 \begin{enumerate}
@@ -570,7 +570,7 @@
 
 \item  What should be in the abstract?
   \begin{quote}
-    The \href{\bloburl/moniker-dir-make/Abstract.tex}{template document} has four elements:
+    The \href{\templatesbloburl/moniker-dir-make/Abstract.tex}{template document} has four elements:
     \begin{itemize}
     \item Abstract for the dissertation as a whole
     \item Abstract for job market paper
