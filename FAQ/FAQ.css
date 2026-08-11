@@ -738,4 +738,13 @@ a:hover, a:active {
     border: none;
 }
 table.tabular td { padding: 0.3em 0.7em; vertical-align: baseline; }
+
+/* Phones. Every page scrolled sideways at 390px: the tables are wider than the
+   viewport and were spilling out of div.tabular (overflow-x:visible), dragging
+   the whole page with them, and Steps additionally has unbreakable strings --
+   long URLs and filenames like Practice.Interviews.Student.Preparation.doc.
+   Now wide tables scroll inside their own box and long strings wrap, so the
+   page body never scrolls horizontally at any width. Verified 390/768/1280. */
+div.tabular { overflow-x: auto; max-width: 100%; }
+body { overflow-wrap: break-word; }
 .jm-nav { margin: 0 0 1.2em 0; font-size: 0.9em; }
