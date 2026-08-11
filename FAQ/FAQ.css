@@ -747,4 +747,11 @@ table.tabular td { padding: 0.3em 0.7em; vertical-align: baseline; }
    page body never scrolls horizontally at any width. Verified 390/768/1280. */
 div.tabular { overflow-x: auto; max-width: 100%; }
 body { overflow-wrap: break-word; }
+.jm-index { margin: 1.2em 0 2em; padding: 0.9em 1.2em; border: 1px solid #ccc; border-radius: 4px; }
+.jm-index-t { margin: 0 0 .5em; font-weight: bold; }
+.jm-index ul { margin: 0; padding-left: 1.1em; }
+.jm-index li { margin: .18em 0; }
+.jm-index li.jm-idx-h { list-style: none; margin: .8em 0 .25em -1.1em;
+                        font-weight: bold; font-size: .95em; }
+.jm-index li.jm-idx-h:first-child { margin-top: 0; }
 .jm-nav { margin: 0 0 1.2em 0; font-size: 0.9em; }
