@@ -20,9 +20,18 @@
 > have such a website … one of the things you should plan to accomplish over the
 > summer" — noting that only one candidate then had one linked.
 >
+> **What the departmental page shows right now** (checked in a browser, 2026-08-11 — the
+> site is behind Cloudflare, so command-line checks get a 403 and cannot see this):
+> the [Job Market Candidates page](https://econ.jhu.edu/directoryindex/job-market/) lists
+> the Placement Director and the Graduate Program Coordinator, and then says
+> **"Job market candidate profiles coming soon."** There are no candidate entries and no
+> links to any candidate's materials. So the old server-folder process has stopped and
+> **nothing has replaced it yet** — with the Fall Jamboree weeks away, this is the gap.
+>
 > **Still to be decided by the JMPO before this can be rewritten:**
-> - Who links a candidate's site from the departmental page, and how it is requested.
->   (In May 2026 this was an open question — the web liaison, possibly a student.)
+> - How a candidate's page or personal site gets onto that departmental page. The
+>   **web liaison is Brittany Lowe** (`blowe5@jhu.edu`, Wyman Park 572) — she publishes it,
+>   but what she needs from each candidate, and by when, is not written down anywhere.
 > - Whether the `Abstract / CV / JobPaper / JobTalk / NonThesisPapers /
 >   OtherThesisPapers / Private` folder structure and the `template.txt` file still
 >   mean anything, or are artifacts of the retired server workflow.
