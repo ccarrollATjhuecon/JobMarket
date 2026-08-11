@@ -476,18 +476,18 @@ mo[fence="true"] {
 .ecrm-2074{font-size:166%;}
 .ecrm-1095{font-size:83%;}
 .cmsy-10x-x-109{font-size:90%;}
-.ecti-1095{font-size:83%; font-style: italic;}
-.ecti-1095{ font-style: italic;}
-.ecti-1095{ font-style: italic;}
-.ecti-1095{ font-style: italic;}
-.ecti-1095{ font-style: italic;}
-.ecti-1095{ font-style: italic;}
 .ectt-1095{font-size:83%; font-family: monospace,monospace;}
 .ectt-1095{ font-family: monospace,monospace;}
 .ectt-1095{ font-family: monospace,monospace;}
 .ectt-1095{ font-family: monospace,monospace;}
 .ectt-1095{ font-family: monospace,monospace;}
 .ectt-1095{ font-family: monospace,monospace;}
+.ecti-1095{font-size:83%; font-style: italic;}
+.ecti-1095{ font-style: italic;}
+.ecti-1095{ font-style: italic;}
+.ecti-1095{ font-style: italic;}
+.ecti-1095{ font-style: italic;}
+.ecti-1095{ font-style: italic;}
 .ecbx-1095{font-size:83%; font-weight: bold;}
 .ecbx-1095{ font-weight: bold;}
 .ecbx-1095{ font-weight: bold;}
@@ -535,7 +535,6 @@ div.obeylines-v p { margin-top:0; margin-bottom:0; }
 td.displaylines {text-align:center; white-space:nowrap;}
 .centerline {text-align:center;}
 .rightline {text-align:right;}
-div.pic-tabular {text-align:center;}
 pre.verbatim {font-family: monospace,monospace; text-align:left; clear:both; }
 .fbox {padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
 div.fbox {display:table}
@@ -555,6 +554,9 @@ div.flushleft {text-align: left;}
 span.thank-mark{ vertical-align: super }
 span.footnote-mark sup.textsuperscript, span.footnote-mark a sup.textsuperscript{ font-size:80%; }
 code.verb{font-family:monospace,monospace;}
+div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
+table.tabular td p{margin-top:0em;}
+table.tabular {margin-left: auto; margin-right: auto;}
 td p:first-child{ margin-top:0em; }
 td p:last-child{ margin-bottom:0em; }
 div.td00{ margin-left:0pt; margin-right:0pt; }
@@ -645,6 +647,9 @@ table.multline, table.multline-star {width:100%;}
 td.gather {text-align:center; }
 table.gather {width:100%;}
 div.gather-star {text-align:center;}
+div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
+table.tabular td p{margin-top:0em;}
+table.tabular {margin-left: auto; margin-right: auto;}
 td p:first-child{ margin-top:0em; }
 td p:last-child{ margin-bottom:0em; }
 div.td00{ margin-left:0pt; margin-right:0pt; }
@@ -693,5 +698,11 @@ table.equation td:last-child{ text-align: right; vertical-align: middle; }
 table.equation td p{ text-align: center !important; }
 math.equation{ display: block !important; margin: 0 auto; text-align: center; }
 .equation-star{ display: block; text-align: center; margin-top: 1.5em; margin-bottom: 1.5em; }
+#TBL-1-1{border-left: 1px solid black;}
+#TBL-1-1{border-right:1px solid black;}
+#TBL-1-2{border-right:1px solid black;}
+#TBL-1-3{border-right:1px solid black;}
+#TBL-2-1{border-left: 1px solid black;}
+#TBL-2-3{border-right:1px solid black;}
 /* end css.sty */
 
