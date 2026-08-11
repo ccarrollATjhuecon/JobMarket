@@ -701,3 +701,4 @@ a:hover, a:active {
     border: none;
 }
 table.tabular td { padding: 0.3em 0.7em; vertical-align: baseline; }
+.jm-nav { margin: 0 0 1.2em 0; font-size: 0.9em; }

@@ -481,6 +481,8 @@ mo[fence="true"] {
 .ecti-1200{ font-style: italic;}
 .ecti-1200{ font-style: italic;}
 .ecti-1200{ font-style: italic;}
+.ecti-1200{ font-style: italic;}
+.ecbx-1200{ font-weight: bold;}
 .ecbx-1200{ font-weight: bold;}
 .ecbx-1200{ font-weight: bold;}
 .ecbx-1200{ font-weight: bold;}
@@ -499,8 +501,11 @@ mo[fence="true"] {
 .ectt-1200{ font-family: monospace,monospace;}
 .ectt-1200{ font-family: monospace,monospace;}
 .ectt-1200{ font-family: monospace,monospace;}
+.ectt-1200{ font-family: monospace,monospace;}
+.ecrm-1095{font-size:83%;}
 .ecrm-1000{font-size:83%;}
 .ecti-1000{font-size:83%; font-style: italic;}
+.ecti-1000{ font-style: italic;}
 .ecti-1000{ font-style: italic;}
 .ecti-1000{ font-style: italic;}
 .ecti-1000{ font-style: italic;}
@@ -733,3 +738,4 @@ a:hover, a:active {
     border: none;
 }
 table.tabular td { padding: 0.3em 0.7em; vertical-align: baseline; }
+.jm-nav { margin: 0 0 1.2em 0; font-size: 0.9em; }
