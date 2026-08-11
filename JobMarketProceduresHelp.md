@@ -4,7 +4,7 @@
 
 ### Introduction
 
-The "Job Market Computer Coordinator" or [web liaision](http://econ.jhu.edu/directoryindex/staff/) will set up a simple web folder for each job market candidate.  
+The "Job Market Communications Coordinator" (JMCC) or [web liaision](http://econ.jhu.edu/directoryindex/staff/) will set up a simple web folder for each job market candidate.  
 For these instructions, assume that your name is "Firstname Middlename Lastname". The address of your individual web folder will be at:
 
 ___
@@ -14,7 +14,7 @@ ___
 ___
 
 
-where "LastnameFM" is your [Moniker](https://github.com/ccarrollATjhuecon/JobMarket/blob/master/Notation/Notation.md).
+where "LastnameFM" is your [Moniker](https://ccarrollATjhuecon.github.io/JobMarket/Notation).
 
 You are responsible for updating the contents of your folder. Your folder contains the following sub-folders:
 
@@ -91,7 +91,7 @@ Below is information about each of the main methods for causing your recommendat
 
 ### General Procedure
 
-Information can be found at [RecLetters](https://github.com/ccarrollATjhuecon/JobMarket/RecLetters/). This service will be provided for JHU Economics professors and any outside reference letter writers who are willing to name [jmstaff.jhuecon@jhu.edu](https://github.com/ccarrollATjhuecon/JobMarket/blob/master/Notation.md) as their proxy to upload letters.
+Information can be found at [RecLetters](https://ccarrollATjhuecon.github.io/JobMarket/RecLetters). This service will be provided for JHU Economics professors and any outside reference letter writers who are willing to name [jmstaff-jhuecon@jhu.edu](https://ccarrollATjhuecon.github.io/JobMarket/Notation) as their proxy to upload letters.
 
 ### Multiple Letters
 
@@ -101,9 +101,9 @@ Therefore we are currently handling this problem using two alternative procedure
 
 ##### Semi-Auto Solution:
 
-We will upload a master/generic reference which will be automatically submitted to all employers/schools. We then withdraw this reference from the non-academic institutions. You are responsible for letting [jmstaff.jhuecon@jhu.edu](https://github.com/ccarrollATjhuecon/JobMarket/blob/master/Notation.md) know which non-academic institutions you have applied to, so that the wrong reference is withdrawn and replaced with the correct one[\[1\]](http://www.econ2.jhu.edu/jobmarket/Information/JobMarketProceduresHelp.html#footnote-1).
+We will upload a master/generic reference which will be automatically submitted to all employers/schools. We then withdraw this reference from the non-academic institutions. You are responsible for letting [jmstaff-jhuecon@jhu.edu](https://ccarrollATjhuecon.github.io/JobMarket/Notation) know which non-academic institutions you have applied to, so that the wrong reference is withdrawn and replaced with the correct one[\[1\]](http://www.econ2.jhu.edu/jobmarket/Information/JobMarketProceduresHelp.html#footnote-1).
 
-If you only have one generic letter from a faculty member, that is the letter that will be uploaded and sent out automatically. If you need another type of reference letter (non-academic, research, teaching) sent out, you are responsible for letting [jmstaff.jhuecon@jhu.edu](https://github.com/ccarrollATjhuecon/JobMarket/blob/master/Notation.md) know which type of letter needs to uploaded to what site and to which places you are applying. You will convey this type of information on each spreadsheet that will be emailed to [jmstaff.jhuecon@jhu.edu](https://github.com/ccarrollATjhuecon/JobMarket/blob/master/Notation.md).
+If you only have one generic letter from a faculty member, that is the letter that will be uploaded and sent out automatically. If you need another type of reference letter (non-academic, research, teaching) sent out, you are responsible for letting [jmstaff-jhuecon@jhu.edu](https://ccarrollATjhuecon.github.io/JobMarket/Notation) know which type of letter needs to uploaded to what site and to which places you are applying. You will convey this type of information on each spreadsheet that will be emailed to [jmstaff-jhuecon@jhu.edu](https://ccarrollATjhuecon.github.io/JobMarket/Notation).
 
 ##### Manual Solution:
 
@@ -125,37 +125,37 @@ For staff:
 Instructions for using Interfolio for letters of recommendation:
 
 1.  Indicate that you are going to use Interfolio in your spreadsheets (AppSubmitMethod, RecLetterSendGroup).
-2.  Wait for an email from [jmstaff.jhuecon@jhu.edu](https://github.com/ccarrollATjhuecon/JobMarket/blob/master/Notation.md) indicating that she has received ALL your letters of recommendation. [jmstaff.jhuecon@jhu.edu](https://github.com/ccarrollATjhuecon/JobMarket/blob/master/Notation.md) will tell you if you have multiple letters of recommendation from a specific faculty member as well as the type of recommendation (E.g. generic, academic, non-academic, etc...). **DO NOT PROCEED** with the recommendation requests if you don't know the type of recommendation letter you are getting from each specific faculty member.
+2.  Wait for an email from [jmstaff-jhuecon@jhu.edu](https://ccarrollATjhuecon.github.io/JobMarket/Notation) indicating that she has received ALL your letters of recommendation. [jmstaff-jhuecon@jhu.edu](https://ccarrollATjhuecon.github.io/JobMarket/Notation) will tell you if you have multiple letters of recommendation from a specific faculty member as well as the type of recommendation (E.g. generic, academic, non-academic, etc...). **DO NOT PROCEED** with the recommendation requests if you don't know the type of recommendation letter you are getting from each specific faculty member.
 3.  When entering the recommendation requests in Interfolio please make sure to:
 a. Start the recommendation request by going to "Letters" in the left menu bar.
-b. Enter the name of your recommender as [jmstaff.jhuecon@jhu.edu](https://github.com/ccarrollATjhuecon/JobMarket/blob/master/Notation.md) \JMStaffNameLast and econ@jhu.edu as her e-mail for each recommendation request. You need to do this as many times as the number of recommendation letters you are expecting to have.
-c. For each recommendation request, specify under "Document Title" the recommender’s actual name (e.g. Dr. Laurence Ball) and the type of the recommendation letter (generic, academic, non-academic. etc.) per [jmstaff.jhuecon@jhu.edu](https://github.com/ccarrollATjhuecon/JobMarket/blob/master/Notation.md)'s e-mail.
-_For example, if [jmstaff.jhuecon@jhu.edu](https://github.com/ccarrollATjhuecon/JobMarket/blob/master/Notation.md) emailed you that Professor Ball wrote you both academic and non-academic letters of recommendation, one of your document titles would be: **Dr. Laurence Ball\_non-academic recommendation** and another would be **Dr. Laurence Ball\_academic recommendation.**_
+b. Enter the name of your recommender as Shiarra Tinawin (see [JMStaff](https://ccarrollATjhuecon.github.io/JobMarket/Notation)) and econ@jhu.edu as her e-mail for each recommendation request. You need to do this as many times as the number of recommendation letters you are expecting to have.
+c. For each recommendation request, specify under "Document Title" the recommender’s actual name (e.g. Dr. Laurence Ball) and the type of the recommendation letter (generic, academic, non-academic. etc.) per [jmstaff-jhuecon@jhu.edu](https://ccarrollATjhuecon.github.io/JobMarket/Notation)'s e-mail.
+_For example, if [jmstaff-jhuecon@jhu.edu](https://ccarrollATjhuecon.github.io/JobMarket/Notation) emailed you that Professor Ball wrote you both academic and non-academic letters of recommendation, one of your document titles would be: **Dr. Laurence Ball\_non-academic recommendation** and another would be **Dr. Laurence Ball\_academic recommendation.**_
 d. "Description" - leave blank.
 e. "Message to Recommender" - leave as is.
 f. Under "Recommendation Type" there are two choices - General and Specific position. Only choose **"Specific position"** and enter the recommender actual name along with the type of the reference letter (generic, academic, non-academic. etc...).
 _For example: **Dr. Laurence Ball\_non-academic recommendation**_
-g. "Due date" - this is irrelevant, just choose a date a few days ahead. Your actual deadlines are already included in the spreadsheets sent to [jmstaff.jhuecon@jhu.edu](https://github.com/ccarrollATjhuecon/JobMarket/blob/master/Notation.md).
+g. "Due date" - this is irrelevant, just choose a date a few days ahead. Your actual deadlines are already included in the spreadsheets sent to [jmstaff-jhuecon@jhu.edu](https://ccarrollATjhuecon.github.io/JobMarket/Notation).
 
-All Interfolio reference letters will be uploaded to Interfolio directly by [jmstaff.jhuecon@jhu.edu](https://github.com/ccarrollATjhuecon/JobMarket/blob/master/Notation.md), including the ones from external recommenders.
+All Interfolio reference letters will be uploaded to Interfolio directly by [jmstaff-jhuecon@jhu.edu](https://ccarrollATjhuecon.github.io/JobMarket/Notation), including the ones from external recommenders.
 
 ## AcademicJobsOnline - AJO
 
 Instructions for using AcademicJobsOnline:
 
-After all reference letters for each student are received, [jmstaff.jhuecon@jhu.edu](https://github.com/ccarrollATjhuecon/JobMarket/blob/master/Notation.md) will make 1 PDF file of all letters and upload their file to the AJO site. The student will be allowed to see when this upload is complete. For example: Prof x - Prof y and Prof z (3 generic ref letters) This service will be provided for JHU Economics Professors and external reference writers.
+After all reference letters for each student are received, [jmstaff-jhuecon@jhu.edu](https://ccarrollATjhuecon.github.io/JobMarket/Notation) will make 1 PDF file of all letters and upload their file to the AJO site. The student will be allowed to see when this upload is complete. For example: Prof x - Prof y and Prof z (3 generic ref letters) This service will be provided for JHU Economics Professors and external reference writers.
 
 ## American Economic Association - AEA
 
 Instructions for using American Economic Association:
 
-Students who are using AEA must inform their JHU Economics Department reference writer to go to [www.aeaweb.org](http://www.econ2.jhu.edu/jobmarket/Information/www.aeaweb.org) and set up a surrogate for their reference letters. The surrogate name is [jmstaff.jhuecon@jhu.edu](https://github.com/ccarrollATjhuecon/JobMarket/blob/master/Notation.md). This service will be provided for JHU Economics professors and external reference writers if they are willing to name [jmstaff.jhuecon@jhu.edu](https://github.com/ccarrollATjhuecon/JobMarket/blob/master/Notation.md) as a surrogate.
+Students who are using AEA must inform their JHU Economics Department reference writer to go to [www.aeaweb.org](https://www.aeaweb.org) and set up a surrogate for their reference letters. The surrogate name is [jmstaff-jhuecon@jhu.edu](https://ccarrollATjhuecon.github.io/JobMarket/Notation). This service will be provided for JHU Economics professors and external reference writers if they are willing to name [jmstaff-jhuecon@jhu.edu](https://ccarrollATjhuecon.github.io/JobMarket/Notation) as a surrogate.
 
 ## Federal Reserve
 
 Instructions for Federal Reserve:
 
-Students will give [jmstaff.jhuecon@jhu.edu](https://github.com/ccarrollATjhuecon/JobMarket/blob/master/Notation.md) their file naming requirements for their letters which they will obtain directly from the Federal Reserve. For example: 576024\_233025\_JonathanWright.
+Students will give [jmstaff-jhuecon@jhu.edu](https://ccarrollATjhuecon.github.io/JobMarket/Notation) their file naming requirements for their letters which they will obtain directly from the Federal Reserve. For example: 576024\_233025\_JonathanWright.
 
 
 ![](http://www.econ2.jhu.edu/images/spacer.gif)

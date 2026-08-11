@@ -1,5 +1,14 @@
 # Template documents are in the appropriate locations:
 
+> ⚠️ **Status (2026-08-10): the OneDrive links in the next section are currently dead.**
+> They point into the *personal* drive of the `econplacement@jh.edu` account, which JHU IT
+> has locked, so they fail even for JHU-authenticated browsers. The spreadsheets and
+> templates are being re-hosted. **Ask the JMPO for current copies of `EmployersMoniker.xlsm`,
+> `InterviewsMoniker.xlsx`, `MemoMoniker.tex`, `SpielsMoniker.tex`, and
+> `CreateCoverLetters.doc` rather than following these links.** The
+> [JobMarket-Templates](https://github.com/ccarrollATjhuecon/JobMarket-Templates) section
+> further down is unaffected and still works.
+
 ## [OneDrive/templates/Moniker](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/econplacement_jh_edu/EuLpAiLBlKxJiA681OAjMiIBsImAqRMYuu-HKEIX0-t1Lw?e=dqQIV3)
 
 This is where you will find templates for the items that you need to put in your own OneDrive folder,
@@ -8,7 +17,7 @@ I would have a file named `EmployersCarrollCD.xlsm` -- NOT `EmployersMonikerCarr
 
 ### Links
 
-  * [EmployersMoniker](https://\pageurl/Steps/#employers-lists)
+  * [EmployersMoniker](https://ccarrollATjhuecon.github.io/JobMarket/Steps/#employers-lists)
     - [`EmployersMoniker.xlsm`](https://livejohnshopkins-my.sharepoint.com/:x:/g/personal/econplacement_jh_edu/EUXOP3uK5X9EgqUy8v72KgIBi8Bgy5dv53-QYnGkj9ttag?e=hmPSaY)
   * [InterviewsMoniker] - to keep track of interviews
     - [`InterviewsMoniker.xlsx`](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/econplacement_jh_edu/EuLpAiLBlKxJiA681OAjMiIBqdYrJrfcAUQxarLFe4pU7A?e=fPOwyf)
