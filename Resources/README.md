@@ -1,12 +1,25 @@
-# Resources have moved to [jobmarket-resources](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/econplacement_jh_edu/Ej6o20DvrWRDlcutWlbk5joBAImXNSFHOMV5keH_QK9ndQ?e=vinv6f)
+# Resources
 
-# A comprehensive collection of job market advice, including an IMF prep package with hundreds of questions can be found at: https://github.com/Dostenlinus/Job-market-Package. You will need to request access to the private repository to ensure only Hopkins students gain access to the IMF prep package. Please email either dostenlinus@gmail.com / davidosten@web.de (my Hopkins email will not be active for that much longer) or ccarroll@llorracc.org to gain access.
+> **Status (2026-08-10): these materials are being relocated. Ask the JMPO for access —
+> do not rely on the links below until this notice is removed.**
 
-This contains advice from JHU students and faculty over the years about various aspects of the job market process.
+This collection holds advice from JHU students and faculty over the years about various
+aspects of the job market process.
 
-It is accessible only from within a browser that has been authenticated to the JHU VPN.
+## Where things stand
 
-A private GitHub repo is also available to collaborators (JMCC, not other candidates):
+- **The OneDrive folder** that previously held these resources lived on the *personal*
+  drive of the `econplacement@jh.edu` account. That account has been locked by JHU IT,
+  so the folder is **not reachable** — it returns an authentication error even for
+  JHU-authenticated browsers. Recovering or re-hosting this content is in progress.
+- **`https://github.com/ccarrollATjhuecon/jobmarket-resources`** — this repository does
+  not exist. The link has been removed rather than left as a dead end.
+- **The IMF interview-prep package** (hundreds of practice questions) was hosted at
+  `github.com/Dostenlinus/Job-market-Package`, a private repo belonging to a graduated
+  student; it no longer resolves. To ask for access, email `ccarroll@llorracc.org`
+  (David Osten's old contacts, `dostenlinus@gmail.com` / `davidosten@web.de`, may still
+  work but his Hopkins address is long inactive).
 
-https://github.com/ccarrollATjhuecon/jobmarket-resources  (This link is broken!)
+Candidates who need any of this material before it is restored should contact the JMPO
+directly.
 
